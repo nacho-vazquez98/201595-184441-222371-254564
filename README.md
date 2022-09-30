@@ -11,3 +11,10 @@ Para esta iteracion al no ser un proyecto tan demandante, las dailys las haremos
 ## Dailys
 ###Primera Daily 23/09/22
 En esta primra daily, definimos los roles de cada uno de los integrantes, definimos cuales iban a ser las adapataciones necesaria del marco. Ademas definimos las tareas a realizar hasta la proxima daily de cada integrante.
+
+## Backlog
+
+![image](https://user-images.githubusercontent.com/45313301/193363266-391ece61-ee7e-409b-8ab7-9d226b2b1146.png)
+
+![image](https://user-images.githubusercontent.com/45313301/193363325-8affefa0-2298-427e-80fc-5657283b4243.png)
+
