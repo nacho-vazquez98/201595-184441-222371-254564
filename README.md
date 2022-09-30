@@ -9,8 +9,11 @@ El rol del Product Owner (PO) lo ocupara Martín Gulla, mientras que el rol del 
 Para esta iteracion al no ser un proyecto tan demandante, las dailys las haremos cada 3 dias proximadamente, definiendo el dia concreto en la daily anterior dependiendo del trabajo a realizar entre cada daily. Los eventos de Sprint Review y Sprint Retrospective los haremos en la ultima daily. 
 
 ## Dailys
-###Primera Daily 23/09/22
+### Primera Daily 23/09/22
 En esta primra daily, definimos los roles de cada uno de los integrantes, definimos cuales iban a ser las adapataciones necesaria del marco. Ademas definimos las tareas a realizar hasta la proxima daily de cada integrante.
+
+### Segunda Daily 30/9/2022
+Discutimos las epicas que fuimos armando con las features y userstories de las que se compone.
 
 ## Backlog
 
