@@ -44,11 +44,11 @@ Las funcionalidades relevantes encontradas en esta aplicación, fueron:
 -	Podes seleccionar una línea y que te muestre su recorrido en el mapa
 
 Imagenes de la aplicación:
-![](https://i.imgur.com/xjN7wk0.jpg =300x) | ![](https://i.imgur.com/QAeLNy7.jpg =300x) | ![](https://i.imgur.com/1gqUBnY.jpg =300x) |
+![](https://i.imgur.com/xjN7wk0.jpg) | ![](https://i.imgur.com/QAeLNy7.jpg) | ![](https://i.imgur.com/1gqUBnY.jpg) |
 | --- | --- | --- |
-![](https://i.imgur.com/jHM3pGj.jpg =300x) | ![](https://i.imgur.com/zxEV26b.jpg =300x) | ![](https://i.imgur.com/WM7CC0D.jpg =300x) | 
-![](https://i.imgur.com/EyBmDGg.jpg =300x) | ![](https://i.imgur.com/fDYSLEY.jpg =300x) | ![](https://i.imgur.com/3XTjSHF.jpg =300x) | 
-![](https://i.imgur.com/WT44jZe.jpg =300x) | ![](https://i.imgur.com/FQseQ4G.jpg =300x) |
+![](https://i.imgur.com/jHM3pGj.jpg) | ![](https://i.imgur.com/zxEV26b.jpg) | ![](https://i.imgur.com/WM7CC0D.jpg) | 
+![](https://i.imgur.com/EyBmDGg.jpg) | ![](https://i.imgur.com/fDYSLEY.jpg) | ![](https://i.imgur.com/3XTjSHF.jpg) | 
+![](https://i.imgur.com/WT44jZe.jpg) | ![](https://i.imgur.com/FQseQ4G.jpg) |
 
 
 
@@ -63,9 +63,9 @@ Funcionalidades que existen en Moovit:
 * Opción para marcar mejor ruta, caminar más o menos transbordos
 * Opción para marcar preferencias de tipo de transporte
 
-| ![](https://i.imgur.com/9oOm9lF.png =300x)     | ![](https://i.imgur.com/tkOVxZH.png =300x)     | ![](https://i.imgur.com/uZpJCdi.png =300x)     |
+| ![](https://i.imgur.com/9oOm9lF.png)     | ![](https://i.imgur.com/tkOVxZH.png)     | ![](https://i.imgur.com/uZpJCdi.png)     |
 | -------- | -------- | -------- |
-| ![](https://i.imgur.com/oJbnSsR.png =300x) |  ![](https://i.imgur.com/eXf4slm.png =300x) |
+| ![](https://i.imgur.com/oJbnSsR.png) |  ![](https://i.imgur.com/eXf4slm.png) |
 
 #### Como Ir
 
@@ -79,10 +79,10 @@ Funcionalidades que existen en Como Ir que no están en nuestra aplicación:
 
 
 
-|![image](https://i.imgur.com/wD1XGGj.jpg  =300x)|![image](https://i.imgur.com/ZdseMBU.jpg  =300x)|![image](https://i.imgur.com/jmcp4uL.jpg  =300x)|
+| ![image](https://i.imgur.com/wD1XGGj.jpg)| ![image](https://i.imgur.com/ZdseMBU.jpg)| ![image](https://i.imgur.com/jmcp4uL.jpg)|
 | -------- | -------- | -------- |
-|![image](https://i.imgur.com/CKneFz2.jpg  =300x)|![image](https://i.imgur.com/8xWyI4q.jpg  =300x)|![image](https://i.imgur.com/8YZxphd.jpg  =300x)|
-![image](https://i.imgur.com/Ivfj3Kb.jpg  =300x)
+| ![image](https://i.imgur.com/CKneFz2.jpg)|![image](https://i.imgur.com/8xWyI4q.jpg)|![image](https://i.imgur.com/8YZxphd.jpg)| 
+![image](https://i.imgur.com/Ivfj3Kb.jpg)
 
 
 
