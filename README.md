@@ -241,4 +241,8 @@ Completamos definition of ready y definition of done, creamos el story map, y co
 Realizamos la planning para la siguiente iteracion, en la cual priorizamos las tareas que vamos a realizar.
 En primer lugar, asignamos story points a cada user story, ya que aun no habiamos tenido una instancia de valorar cada una. Luego de tener estos valores, realizamos el Story Map, el cual esta documentado anteriormente. 
 En esta instancia tambien asignamos las tareas que cada integrante del equipo de desarrollo va a realizar.
+
 ## Retrospective<a name="Retrospective"></a>
+Evidencia de Retrospective:
+![image](https://i.imgur.com/4A0J8XO.png)
+![image](https://i.imgur.com/Z4DplZA.png)
