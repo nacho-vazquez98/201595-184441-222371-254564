@@ -42,7 +42,8 @@ Entrega como requisito para la materia de : Ingenieria de Software Agil 1
 			- [Historias de usuarios](#Historias_de_usuarios)
 		- [Criterios de aceptacion](#Criterios_de_aceptacion)
 	- [Dailys](#Dailys)
-	- [Retrospective](#Retrospective)
+	- [Sprint Planning](#Sprint_Planning)
+    - [Retrospective](#Retrospective)
  
 ---
       
@@ -236,11 +237,8 @@ Priorizamos las epicas y las user stories, ademas asignamos un storie point a ca
 ### Cuarta Daily 07/10/22
 Completamos definition of ready y definition of done, creamos el story map, y continuamos llenando la documentacion con las actividades que fuimos haciendo a lo largo de la iteracion.
 
+## Sprint Planning<a name="Sprint_Planning"></a>
+Realizamos la planning para la siguiente iteracion, en la cual priorizamos las tareas que vamos a realizar.
+En primer lugar, asignamos story points a cada user story, ya que aun no habiamos tenido una instancia de valorar cada una. Luego de tener estos valores, realizamos el Story Map, el cual esta documentado anteriormente. 
+En esta instancia tambien asignamos las tareas que cada integrante del equipo de desarrollo va a realizar.
 ## Retrospective<a name="Retrospective"></a>
-
-
-
-
-
-
-
