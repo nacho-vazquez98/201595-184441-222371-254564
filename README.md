@@ -178,6 +178,17 @@ se considera como una funcionalidad de interés para el dueño del producto.
 ## Definición del problema<a name="Definición_del_problema"></a>
 
 ### Story Map<a name="Story_Map"></a>
+* Story Points
+
+La siguiente tabla establece el work effort realcionado a los story points. Basamos que cada integrante del grupo trabajara 5 horas por semana. Por lo tanto en un sprint de dos semanas cada uno podria hacer 10 horas de esfuerzo.
+
+| Story Points | Work Effort | 
+| -------- | -------- |
+| 1     | 0.5 hours     |
+| 2     | 1 hours     |
+| 3     | 2 hours     |
+| 5     | 5 hours     |
+| 8     | 10 hours     |
 
 ### Product Backlog<a name="Product_Backlog"></a>
 
