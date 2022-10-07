@@ -1,40 +1,93 @@
-# Gulla-Sommer-Toledo-Vazquez
-Obligatorio ISA1 - Iteración 1
+## Universidad ORT Uruguay
 
-## Definición de roles del equipo
+# Obligatorio de Ingenieria de Software Agil 1
+
+
+*Estudiantes:*
+- Martin Gulla - 254564
+- Joaquin Sommer - 184441
+- Juan Toledo - 222371
+- Ignacio Vázquez - 201595
+
+*Profesoras:*
+- Fabiana Pedrini
+- Analia Moreira
+
+Entrega como requisito para la materia de : Ingenieria de Software Agil 1
+
+---
+# Indice
+
+- [Definición del marco de trabajo](#Definición_del_marco_de_trabajo)
+	- [Adaptaciones del marco SCRUM](#Adaptaciones_del_marco_SCRUM)
+	- [Definición de roles del equipo](#Definición_de_roles_del_equipo)
+	- [Politicas de trabajo](#Politicas_de_trabajo)
+		- [Definition of Ready](#Definition_of_Ready)
+		- [Definition of Done](#Definition_of_Done)
+	- [Repositorio del proyecto](#Repositorio_del_proyecto)
+		- [Flujo de trabajo con GIT](#Flujo_de_trabajo_con_GIT)
+		- [Rutas del repositorio](#Rutas_del_repositorio)
+- [Iteración 1](#Iteración_1)
+	- [Identificación del problema a resolver](#Identificación_del_problema_a_resolver)
+		- [Analisis del entorno](#Analisis_del_entorno)
+			- [Entendimiento del MVP](#Entendimiento_del_MVP)
+			- [Ingeniería reversa sobre aplicaciones conocidas similares](#Ingeniería_reversa_sobre_aplicaciones_conocidas_similares)
+			- [Identificación de interesados](#Identificación_de_interesados)
+			- [Estudio de competidores](#Estudio_de_competidores)
+		- [Funcionalidades por interesado](#Funcionalidades_por_interesado)
+	- [Definición del problema](#Definición_del_problema)
+		- [Story Map](#Story_Map)
+		- [Product Backlog](#Product_Backlog)
+			- [Epicas](#Epicas)
+			- [Historias de usuarios](#Historias_de_usuarios)
+		- [Criterios de aceptacion](#Criterios_de_aceptacion)
+  - [Dailys](#Dailys)
+ 
+---
+      
+
+# Definición del marco de trabajo<a name="Definición_del_marco_de_trabajo"></a>
+
+## Adaptaciones del marco SCRUM<a name="Adaptaciones_del_marco_SCRUM"></a>
+
+Para esta iteracion al no ser un proyecto tan demandante, las dailys las haremos cada 3 dias proximadamente, definiendo el dia concreto en la daily anterior dependiendo del trabajo a realizar entre cada daily. Los eventos de Sprint Review y Sprint Retrospective los haremos en la ultima daily. 
+
+## Definición de roles del equipo<a name="Definición_de_roles_del_equipo"></a>
+
 Para la definición de roles del equipo, nos dividimos de la siguiente manera:
 El rol del Product Owner (PO) lo ocupara Martín Gulla, mientras que el rol del Scrum Master (SM) lo ocupara Ignacio Vázquez. Por ultimo para el Development Team (DT), al se un equipo pequeño, este estara conformado por todos los miembros del equipo: Juan Toledo, Joaquín Sommer, Martin Gulla e Ignacio Vázquez.
 
-## Adaptaciones del marco SCRUM
-Para esta iteracion al no ser un proyecto tan demandante, las dailys las haremos cada 3 dias proximadamente, definiendo el dia concreto en la daily anterior dependiendo del trabajo a realizar entre cada daily. Los eventos de Sprint Review y Sprint Retrospective los haremos en la ultima daily. 
+## Politicas de trabajo<a name="Politicas_de_trabajo"></a>
 
-## Dailys
-### Primera Daily 23/09/2022
-En esta primra daily, definimos los roles de cada uno de los integrantes, definimos cuales iban a ser las adapataciones necesaria del marco. Ademas definimos las tareas a realizar hasta la proxima daily de cada integrante. Dichas tareas fueron: para Ignacio, Joaquin y Martin, hacer ingenieria inversa de una aplicacion competidora a nuestra aplicacion. Para Juan, fue hacer el entendimiento del MVP.
+### Definition of Ready<a name="Definition_of_Ready"></a>
 
-### Segunda Daily 30/09/2022
-Discutimos las epicas que fuimos armando con las features y user stories de las que se compone cada una.
+### Definition of Done<a name="Definition_of_Done"></a>
 
-### Tercera Daily 02/10/2022
-Priorizamos las epicas y las user stories, ademas asignamos un storie point a cada user storie. Vinculamos cada user storie con su respectiva epica.
+## Repositorio del proyecto<a name="Repositorio_del_proyecto"></a>
 
+### Flujo de trabajo con GIT<a name="Flujo_de_trabajo_con_GIT"></a>
 
-## Analisis del problema y del entorno
+Para el flujo de trabajo con git, decidimos utilizar GitHub Flow con el cual solo tendremos dos ramas, nuestra rama "feature" la cual tendra el nombre de la iteración en curso (iterración 1, iteración 2, etc.) y la rama principal "master". Esta ultima sera solo para mergear las distintas ramas de features al finalizar cada iteración.
+Mas alla que este flujo sea recomendado cuando las features son de duracion corta (diarias o incluso horas) y aca cada iteracion dura entre 2 a 3 semanas, consideramos que al no contar con un proyecto de código y solo ser proyecto de documentacion este tipo de flujo es el que deberiamos utilizar.
 
-### Entendimiento del MVP
+### Rutas del repositorio<a name="Rutas_del_repositorio"></a>
+
+# Iteración 1<a name="Iteración_1"></a>
+
+## Identificación del problema a resolver<a name="Identificación_del_problema_a_resolver"></a>
+
+## Analisis del entorno<a name="Analisis_del_entorno"></a>
+
+### Entendimiento del MVP<a name="Entendimiento_del_MVP"></a>
+
 El Proyecto se basa en realizar un prototipado de una aplicación enfocada en facilitar la movilidad urbana.
 Para esto, nos basaremos en aplicaciones que ya son utilizadas por la mayoría de la población uruguaya.
 Este MVP será un prototipo que validara el concepto planteado por los docentes, este pretende llegar a convertirse en una versión competitiva de las aplicaciones antes mencionadas, sumándole varias funcionalidades que estas no contienen y que además podrían mejorar significativamente la experiencia del usuario.
 
-### Stakeholders
-En primer lugar, creemos que el MVP debería de enfocarse en el publico más fácil de alcanzar y de validar, este basado en la aplicación que queremos desarrollar sería el que cumpla con las siguientes características
-* Persona entre 15 y 30 años (La edad se ampliará a medida que el MVP sea testeado)
-* Sin vehículo personal
-* Usuario habitual de transporte publico
+### Ingeniería reversa sobre aplicaciones conocidas similares<a name="Ingeniería_reversa_sobre_aplicaciones_conocidas_similares"></a>
 
-
-### Ingenieria inversa sobre aplicaciones conocidas similares
 #### STM Montevideo
+
 Las funcionalidades relevantes encontradas en esta aplicación, fueron:
 -	Te muestra las paradas
 -	Al seleccionar en una parada te muestra las líneas que pasan por esa parada, los horarios estimados de cada línea y te las muestra en tiempo real. 
@@ -51,8 +104,6 @@ Imagenes de la aplicación:
 ![](https://i.imgur.com/jHM3pGj.jpg) | ![](https://i.imgur.com/zxEV26b.jpg) | ![](https://i.imgur.com/WM7CC0D.jpg) | 
 ![](https://i.imgur.com/EyBmDGg.jpg) | ![](https://i.imgur.com/fDYSLEY.jpg) | ![](https://i.imgur.com/3XTjSHF.jpg) | 
 ![](https://i.imgur.com/WT44jZe.jpg) | ![](https://i.imgur.com/FQseQ4G.jpg) |
-
-
 
 #### Movit
 
@@ -79,19 +130,58 @@ Funcionalidades que existen en Como Ir que no están en nuestra aplicación:
 * Se puede guardar la tarjeta STM, para poder ver el saldo disponible, ultimo viaje, cantidad de viajes por mes.
 * Envia notificaciones por cambios puntuales en los recorridos de las lineas, por paros.
 
-
-
 | ![image](https://i.imgur.com/wD1XGGj.jpg)| ![image](https://i.imgur.com/ZdseMBU.jpg)| ![image](https://i.imgur.com/jmcp4uL.jpg)|
 | -------- | -------- | -------- |
 | ![image](https://i.imgur.com/CKneFz2.jpg)|![image](https://i.imgur.com/8xWyI4q.jpg)|![image](https://i.imgur.com/8YZxphd.jpg)| 
 ![image](https://i.imgur.com/Ivfj3Kb.jpg)
 
 
+### Identificación de interesados<a name="Identificación_de_interesados"></a>
 
+En primer lugar, creemos que el MVP debería de enfocarse en el publico más fácil de alcanzar y de validar, este basado en la aplicación que queremos desarrollar sería el que cumpla con las siguientes características
+* Persona entre 15 y 30 años (La edad se ampliará a medida que el MVP sea testeado)
+* Sin vehículo personal
+* Usuario habitual de transporte publico
 
+### Estudio de competidores<a name="Estudio_de_competidores"></a>
 
-## Backlog
+En cuanto a los principales competidores, consideramos que serian apps como STM Montevideo, Como ir o Moovit, ya que son las mas conocidas. Igualmente, existen otras apps no tan conocidas, como puede ser Nextbus Montevideo, las cuales tambien son consideradas competencia pero estas al no ser tan conocidas no las concideramos como competencia importante ya que no tienen un gran peso en el mercado.
+Por otra parte, si el día de mañana nuestra app se ampliara al mercado de los omnibus interdepartamentales, una competencia posible podría ser SeguíTuBus la cual solo se dedica a los omnibus que empiezan o terminan su trayecto en la terminal de tres cruces.
+
+## Funcionalidades por interesado<a name="Funcionalidades_por_interesado"></a>
+
+## Definición del problema<a name="Definición_del_problema"></a>
+
+## Story Map<a name="Story_Map"></a>
+
+## Product Backlog<a name="Product_Backlog"></a>
 
 ![image](https://i.imgur.com/HNdqTU0.png)
 ![image](https://i.imgur.com/wkL7Nod.png)
+
+### Epicas<a name="Epicas"></a>
+
+### Historias de usuarios<a name="Historias_de_usuarios"></a>
+
+## Criterios de aceptacion<a name="Criterios_de_aceptacion"></a>
+
+## Dailys<a name="Dailys"></a>
+### Primera Daily 23/09/2022
+En esta primra daily, definimos los roles de cada uno de los integrantes, definimos cuales iban a ser las adapataciones necesaria del marco. Ademas definimos las tareas a realizar hasta la proxima daily de cada integrante. Dichas tareas fueron: para Ignacio, Joaquin y Martin, hacer ingenieria inversa de una aplicacion competidora a nuestra aplicacion. Para Juan, fue hacer el entendimiento del MVP.
+
+### Segunda Daily 30/09/2022
+Discutimos las epicas que fuimos armando con las features y user stories de las que se compone cada una.
+
+### Tercera Daily 02/10/2022
+Priorizamos las epicas y las user stories, ademas asignamos un storie point a cada user storie. Vinculamos cada user storie con su respectiva epica.
+
+### Cuarta Daily 07/10/22
+
+## Retrospective
+
+
+
+
+
+
 
