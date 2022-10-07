@@ -31,7 +31,7 @@ Entrega como requisito para la materia de : Ingenieria de Software Agil 1
 	- [Identificación del problema a resolver](#Identificación_del_problema_a_resolver)
 		- [Analisis del entorno](#Analisis_del_entorno)
 			- [Entendimiento del MVP](#Entendimiento_del_MVP)
-			- [Ingeniería reversa sobre aplicaciones conocidas similares](#Ingeniería_reversa_sobre_aplicaciones_conocidas_similares)
+			- [Ingeniería inversa sobre aplicaciones conocidas similares](#Ingeniería_inversa_sobre_aplicaciones_conocidas_similares)
 			- [Identificación de interesados](#Identificación_de_interesados)
 			- [Estudio de competidores](#Estudio_de_competidores)
 		- [Funcionalidades por interesado](#Funcionalidades_por_interesado)
@@ -43,6 +43,7 @@ Entrega como requisito para la materia de : Ingenieria de Software Agil 1
 		- [Criterios de aceptacion](#Criterios_de_aceptacion)
 	- [Dailys](#Dailys)
 	- [Sprint Planning](#Sprint_Planning)
+	- [Horas dedicadas](#Horas_dedicadas)
     - [Retrospective](#Retrospective)
  
 ---
@@ -106,7 +107,7 @@ El Proyecto se basa en realizar un prototipado de una aplicación enfocada en fa
 Para esto, nos basaremos en aplicaciones que ya son utilizadas por la mayoría de la población uruguaya.
 Este MVP será un prototipo que validara el concepto planteado por los docentes, este pretende llegar a convertirse en una versión competitiva de las aplicaciones antes mencionadas, sumándole varias funcionalidades que estas no contienen y que además podrían mejorar significativamente la experiencia del usuario.
 
-#### Ingeniería reversa sobre aplicaciones conocidas similares<a name="Ingeniería_reversa_sobre_aplicaciones_conocidas_similares"></a>
+#### Ingeniería inversa sobre aplicaciones conocidas similares<a name="Ingeniería_inversa_sobre_aplicaciones_conocidas_similares"></a>
 
 **STM Montevideo**
 
@@ -241,6 +242,10 @@ Completamos definition of ready y definition of done, creamos el story map, y co
 Realizamos la planning para la siguiente iteracion, en la cual priorizamos las tareas que vamos a realizar.
 En primer lugar, asignamos story points a cada user story, ya que aun no habiamos tenido una instancia de valorar cada una. Luego de tener estos valores, realizamos el Story Map, el cual esta documentado anteriormente. 
 En esta instancia tambien asignamos las tareas que cada integrante del equipo de desarrollo va a realizar.
+
+## Horas dedicadas<a name="Horas_dedicadas"></a>
+
+Cada integrante hizo aproximadamente una hora por daily ya que esta fue la duración de las mismas, y luego cada uno trabajó entre dos y dos horas y media fueras de las reuniones.
 
 ## Retrospective<a name="Retrospective"></a>
 Evidencia de Retrospective:
