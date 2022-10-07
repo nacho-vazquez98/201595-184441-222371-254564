@@ -41,7 +41,8 @@ Entrega como requisito para la materia de : Ingenieria de Software Agil 1
 			- [Epicas](#Epicas)
 			- [Historias de usuarios](#Historias_de_usuarios)
 		- [Criterios de aceptacion](#Criterios_de_aceptacion)
-  - [Dailys](#Dailys)
+	- [Dailys](#Dailys)
+	- [Retrospective](#Retrospective)
  
 ---
       
@@ -76,17 +77,17 @@ Mas alla que este flujo sea recomendado cuando las features son de duracion cort
 
 ## Identificación del problema a resolver<a name="Identificación_del_problema_a_resolver"></a>
 
-## Analisis del entorno<a name="Analisis_del_entorno"></a>
+### Analisis del entorno<a name="Analisis_del_entorno"></a>
 
-### Entendimiento del MVP<a name="Entendimiento_del_MVP"></a>
+#### Entendimiento del MVP<a name="Entendimiento_del_MVP"></a>
 
 El Proyecto se basa en realizar un prototipado de una aplicación enfocada en facilitar la movilidad urbana.
 Para esto, nos basaremos en aplicaciones que ya son utilizadas por la mayoría de la población uruguaya.
 Este MVP será un prototipo que validara el concepto planteado por los docentes, este pretende llegar a convertirse en una versión competitiva de las aplicaciones antes mencionadas, sumándole varias funcionalidades que estas no contienen y que además podrían mejorar significativamente la experiencia del usuario.
 
-### Ingeniería reversa sobre aplicaciones conocidas similares<a name="Ingeniería_reversa_sobre_aplicaciones_conocidas_similares"></a>
+#### Ingeniería reversa sobre aplicaciones conocidas similares<a name="Ingeniería_reversa_sobre_aplicaciones_conocidas_similares"></a>
 
-#### STM Montevideo
+**STM Montevideo**
 
 Las funcionalidades relevantes encontradas en esta aplicación, fueron:
 -	Te muestra las paradas
@@ -105,7 +106,7 @@ Imagenes de la aplicación:
 ![](https://i.imgur.com/EyBmDGg.jpg) | ![](https://i.imgur.com/fDYSLEY.jpg) | ![](https://i.imgur.com/3XTjSHF.jpg) | 
 ![](https://i.imgur.com/WT44jZe.jpg) | ![](https://i.imgur.com/FQseQ4G.jpg) |
 
-#### Movit
+**Movit**
 
 Funcionalidades que existen en Moovit:
 * Marcar destino y que se despliegue una lista con diferentes rutas de ómnibus para llegar al destino
@@ -120,7 +121,7 @@ Funcionalidades que existen en Moovit:
 | -------- | -------- | -------- |
 | ![](https://i.imgur.com/oJbnSsR.png) |  ![](https://i.imgur.com/eXf4slm.png) |
 
-#### Como Ir
+**Como Ir**
 
 Funcionalidades que existen en Como Ir que no están en nuestra aplicación:
 
@@ -136,34 +137,34 @@ Funcionalidades que existen en Como Ir que no están en nuestra aplicación:
 ![image](https://i.imgur.com/Ivfj3Kb.jpg)
 
 
-### Identificación de interesados<a name="Identificación_de_interesados"></a>
+#### Identificación de interesados<a name="Identificación_de_interesados"></a>
 
 En primer lugar, creemos que el MVP debería de enfocarse en el publico más fácil de alcanzar y de validar, este basado en la aplicación que queremos desarrollar sería el que cumpla con las siguientes características
 * Persona entre 15 y 30 años (La edad se ampliará a medida que el MVP sea testeado)
 * Sin vehículo personal
 * Usuario habitual de transporte publico
 
-### Estudio de competidores<a name="Estudio_de_competidores"></a>
+#### Estudio de competidores<a name="Estudio_de_competidores"></a>
 
 En cuanto a los principales competidores, consideramos que serian apps como STM Montevideo, Como ir o Moovit, ya que son las mas conocidas. Igualmente, existen otras apps no tan conocidas, como puede ser Nextbus Montevideo, las cuales tambien son consideradas competencia pero estas al no ser tan conocidas no las concideramos como competencia importante ya que no tienen un gran peso en el mercado.
 Por otra parte, si el día de mañana nuestra app se ampliara al mercado de los omnibus interdepartamentales, una competencia posible podría ser SeguíTuBus la cual solo se dedica a los omnibus que empiezan o terminan su trayecto en la terminal de tres cruces.
 
-## Funcionalidades por interesado<a name="Funcionalidades_por_interesado"></a>
+### Funcionalidades por interesado<a name="Funcionalidades_por_interesado"></a>
 
 ## Definición del problema<a name="Definición_del_problema"></a>
 
-## Story Map<a name="Story_Map"></a>
+### Story Map<a name="Story_Map"></a>
 
-## Product Backlog<a name="Product_Backlog"></a>
+### Product Backlog<a name="Product_Backlog"></a>
 
 ![image](https://i.imgur.com/HNdqTU0.png)
 ![image](https://i.imgur.com/wkL7Nod.png)
 
-### Epicas<a name="Epicas"></a>
+#### Epicas<a name="Epicas"></a>
 
-### Historias de usuarios<a name="Historias_de_usuarios"></a>
+#### Historias de usuarios<a name="Historias_de_usuarios"></a>
 
-## Criterios de aceptacion<a name="Criterios_de_aceptacion"></a>
+### Criterios de aceptacion<a name="Criterios_de_aceptacion"></a>
 
 ## Dailys<a name="Dailys"></a>
 ### Primera Daily 23/09/2022
@@ -177,7 +178,7 @@ Priorizamos las epicas y las user stories, ademas asignamos un storie point a ca
 
 ### Cuarta Daily 07/10/22
 
-## Retrospective
+## Retrospective<a name="Retrospective"></a>
 
 
 
