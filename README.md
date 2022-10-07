@@ -62,7 +62,22 @@ El rol del Product Owner (PO) lo ocupara Martín Gulla, mientras que el rol del 
 
 ### Definition of Ready<a name="Definition_of_Ready"></a>
 
+- Cada historia de usuario vista y aceptada por todos los miembros del equipo
+- El prototipo debe de estar listo para ser implementado, detallando los elementos que se deben de implementar.
+- Las historias de usuario deben poder ser implementadas en un sprint de 2 semanas como máximo.
+- Requisitos no funcionales deben de estar detallados.
+- El entorno de pruebas debe de estar definido.
+- El equipo conoce cual es la solución a mostrar en el prototipo
+
 ### Definition of Done<a name="Definition_of_Done"></a>
+
+- El trabajo de todos los miembros del equipo de desarrollo debe estar completamente integrado en cada iteración.
+- El trabajo de cada miembro del equipo debe ser revisado por al menos otro miembro del equipo.
+- Todo el equipo cree que cada objetivo/requisito cumple con sus criterios de aceptación. 
+- El producto cumple con los estándares de calidad del consumidor. 
+- Debe estar todo el proceso completamente documentado.
+- El propietario del producto ha aprobado y aceptado lo que se ha hecho en la iteración.
+
 
 ## Repositorio del proyecto<a name="Repositorio_del_proyecto"></a>
 
