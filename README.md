@@ -16,6 +16,8 @@ En esta primra daily, definimos los roles de cada uno de los integrantes, defini
 Discutimos las epicas que fuimos armando con las features y user stories de las que se compone cada una.
 
 ### Tercera Daily 02/10/2022
+Priorizamos las epicas y las user stories, ademas asignamos un storie point a cada user storie. Vinculamos cada user storie con su respectiva epica.
+
 
 ## Analisis del problema y del entorno
 
@@ -90,7 +92,6 @@ Funcionalidades que existen en Como Ir que no están en nuestra aplicación:
 
 ## Backlog
 
-![image](https://user-images.githubusercontent.com/45313301/193363266-391ece61-ee7e-409b-8ab7-9d226b2b1146.png)
-
-![image](https://user-images.githubusercontent.com/45313301/193363325-8affefa0-2298-427e-80fc-5657283b4243.png)
+![image](https://i.imgur.com/HNdqTU0.png)
+![image](https://i.imgur.com/wkL7Nod.png)
 
