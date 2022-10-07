@@ -26,7 +26,6 @@ Entrega como requisito para la materia de : Ingenieria de Software Agil 1
 		- [Definition of Done](#Definition_of_Done)
 	- [Repositorio del proyecto](#Repositorio_del_proyecto)
 		- [Flujo de trabajo con GIT](#Flujo_de_trabajo_con_GIT)
-		- [Rutas del repositorio](#Rutas_del_repositorio)
 - [Iteración 1](#Iteración_1)
 	- [Identificación del problema a resolver](#Identificación_del_problema_a_resolver)
 		- [Analisis del entorno](#Analisis_del_entorno)
@@ -85,8 +84,6 @@ El rol del Product Owner (PO) lo ocupara Martín Gulla, mientras que el rol del 
 
 Para el flujo de trabajo con git, decidimos utilizar GitHub Flow con el cual solo tendremos dos ramas, nuestra rama "feature" la cual tendra el nombre de la iteración en curso (iterración 1, iteración 2, etc.) y la rama principal "master". Esta ultima sera solo para mergear las distintas ramas de features al finalizar cada iteración.
 Mas alla que este flujo sea recomendado cuando las features son de duracion corta (diarias o incluso horas) y aca cada iteracion dura entre 2 a 3 semanas, consideramos que al no contar con un proyecto de código y solo ser proyecto de documentacion este tipo de flujo es el que deberiamos utilizar.
-
-### Rutas del repositorio<a name="Rutas_del_repositorio"></a>
 
 # Iteración 1<a name="Iteración_1"></a>
 
@@ -177,21 +174,34 @@ Por otra parte, si el día de mañana nuestra app se ampliara al mercado de los 
 
 #### Epicas<a name="Epicas"></a>
 
+Al momento de crear epicas, el criterio que tomamos fue primero tomar cada requerimiento funcional, y agruparlos, por ejemplo, todas las cosas referidas a usuarios, todas las cosas referidas a Lineas de Omnibus, etc. De eesta forma, llegamos a las siguientes epicas, las cuales tienen cada una sus user stories como dependientes de esta
+
+![image](https://i.imgur.com/M45xabQ.png)
+
 #### Historias de usuarios<a name="Historias_de_usuarios"></a>
 
-### Criterios de aceptacion<a name="Criterios_de_aceptacion"></a>
+Luego de dividir en epicas, nos tomamos el tiempo para ver que compone a cada una. Por ejemplo, la epica de usuarios se divide en iniciar sesion, registrarse, editar perfil, cerrar sesion, restaurar contraseña, y el historial de viajes. 
+Aqui listamos todas las user stories que creamos (para ver la dependencia epica-historia ver imagen [Product Backlog](#Product_Backlog))
+![image](https://i.imgur.com/hjr7CCb.png)
+![image](https://i.imgur.com/koIzf57.png)
+
+#### Criterios de aceptacion<a name="Criterios_de_aceptacion"></a>
+Cada user story tiene su propio criterio de aceptacion, dependiendo de lo que la tarea conlleve. A continuacion se muestran dos ejemplos de las stories y sus criterios de aceptacion
+![image](https://i.imgur.com/J2WmKsY.jpeg)
+![image](https://i.imgur.com/csFPL2T.jpeg)
 
 ## Dailys<a name="Dailys"></a>
 ### Primera Daily 23/09/2022
 En esta primra daily, definimos los roles de cada uno de los integrantes, definimos cuales iban a ser las adapataciones necesaria del marco. Ademas definimos las tareas a realizar hasta la proxima daily de cada integrante. Dichas tareas fueron: para Ignacio, Joaquin y Martin, hacer ingenieria inversa de una aplicacion competidora a nuestra aplicacion. Para Juan, fue hacer el entendimiento del MVP.
 
 ### Segunda Daily 30/09/2022
-Discutimos las epicas que fuimos armando con las features y user stories de las que se compone cada una.
+Discutimos las epicas que fuimos armando a partir de las features presentadas en la letra, y la que decidimos agregar para brindar un valor adicional al producto, y user stories de las que se compone cada una, con su descripcion y criterio de aceptacion de la misma.
 
 ### Tercera Daily 02/10/2022
 Priorizamos las epicas y las user stories, ademas asignamos un storie point a cada user storie. Vinculamos cada user storie con su respectiva epica.
 
 ### Cuarta Daily 07/10/22
+Completamos definition of ready y definition of done, creamos el story map, y continuamos llenando la documentacion con las actividades que fuimos haciendo a lo largo de la iteracion.
 
 ## Retrospective<a name="Retrospective"></a>
 
