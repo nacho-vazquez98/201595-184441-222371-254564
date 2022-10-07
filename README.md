@@ -26,6 +26,7 @@ Entrega como requisito para la materia de : Ingenieria de Software Agil 1
 		- [Definition of Done](#Definition_of_Done)
 	- [Repositorio del proyecto](#Repositorio_del_proyecto)
 		- [Flujo de trabajo con GIT](#Flujo_de_trabajo_con_GIT)
+	- [Desarrollo de prototipo](#Desarrollo_de_prototipo)
 - [Iteración 1](#Iteración_1)
 	- [Identificación del problema a resolver](#Identificación_del_problema_a_resolver)
 		- [Analisis del entorno](#Analisis_del_entorno)
@@ -84,6 +85,13 @@ El rol del Product Owner (PO) lo ocupara Martín Gulla, mientras que el rol del 
 
 Para el flujo de trabajo con git, decidimos utilizar GitHub Flow con el cual solo tendremos dos ramas, nuestra rama "feature" la cual tendra el nombre de la iteración en curso (iterración 1, iteración 2, etc.) y la rama principal "master". Esta ultima sera solo para mergear las distintas ramas de features al finalizar cada iteración.
 Mas alla que este flujo sea recomendado cuando las features son de duracion corta (diarias o incluso horas) y aca cada iteracion dura entre 2 a 3 semanas, consideramos que al no contar con un proyecto de código y solo ser proyecto de documentacion este tipo de flujo es el que deberiamos utilizar.
+
+## Desarrollo de prototipo<a name="Desarrollo_de_prototipo"></a>
+
+El prototipo será desarrollado en la herramienta de prototipado de alta fidelidad de Figma,
+debido a que el equipo posee conocimientos en esta herramienta, y para los que no 
+poseen conocimientos, es facil de aprender y de utilizar.
+
 
 # Iteración 1<a name="Iteración_1"></a>
 
