@@ -198,6 +198,8 @@ La siguiente tabla establece el work effort realcionado a los story points. Basa
 | 5     | 5 hours     |
 | 8     | 10 hours     |
 
+![specmap-Obligatorio ISA1 - 2022-Story Map](https://user-images.githubusercontent.com/45313301/194671274-060a728e-a9ef-4bd3-91af-b762ee13c1ce.png)
+
 ### Product Backlog<a name="Product_Backlog"></a>
 
 ![image](https://i.imgur.com/HNdqTU0.png)
