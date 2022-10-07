@@ -163,6 +163,18 @@ Por otra parte, si el día de mañana nuestra app se ampliara al mercado de los 
 
 ### Funcionalidades por interesado<a name="Funcionalidades_por_interesado"></a>
 
+- Usuario final
+
+Todas las funcionales de la aplicación son pensadas para el usuario final,
+el cual es el cliente de la aplicación, especificado en la parte de identificación de interesados.
+
+
+- Dueño del producto
+
+La funcionalidad de STM al ser una funcionalidad agregada a lo que fue solicitado, 
+se considera como una funcionalidad de interés para el dueño del producto.
+
+
 ## Definición del problema<a name="Definición_del_problema"></a>
 
 ### Story Map<a name="Story_Map"></a>
