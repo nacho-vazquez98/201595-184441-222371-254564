@@ -53,18 +53,25 @@ Entrega como requisito para la materia de : Ingenieria de Software Agil 1
 
 ## Adaptaciones del marco SCRUM<a name="Adaptaciones_del_marco_SCRUM"></a>
 
-Para esta iteracion al no ser un proyecto tan demandante, las dailys las haremos cada 3 dias proximadamente, definiendo el dia concreto en la daily anterior dependiendo del trabajo a realizar entre cada daily. Los eventos de Sprint Review y Sprint Retrospective los haremos en la ultima daily. 
+Para esta iteracion al no ser un proyecto tan demandante, las dailys las haremos cada 3 dias aproximadamente, definiendo el dia concreto en la daily anterior dependiendo del trabajo a realizar entre cada daily. Los eventos de Sprint Review y Sprint Retrospective los haremos en la ultima daily. Al ser un equipo pequeño, todos asumimos el rol de desarrolladores, y un par de integrantes tambien asumieron un rol mas (explicado debajo).
 
 ## Definición de roles del equipo<a name="Definición_de_roles_del_equipo"></a>
 
 Para la definición de roles del equipo, nos dividimos de la siguiente manera:
 El rol del Product Owner (PO) lo ocupara Martín Gulla, mientras que el rol del Scrum Master (SM) lo ocupara Ignacio Vázquez. Por ultimo para el Development Team (DT), al se un equipo pequeño, este estara conformado por todos los miembros del equipo: Juan Toledo, Joaquín Sommer, Martin Gulla e Ignacio Vázquez.
 
+El Product Owner fue el principal encargado de traducir los requerimientos a User Stories, priorizar estas stories, y de definir las tareas de cada integrante para el siguiente sprint.
+
+El Scrum master fue la persona que definia cuando iba a ser la siguiente reunion y guardar un registro de la misma.
+
+Los developers, junto con el Product Owner, fueron los que estimaron las tareas y sus criterios de aceptacion.
+
 ## Politicas de trabajo<a name="Politicas_de_trabajo"></a>
 
 ### Definition of Ready<a name="Definition_of_Ready"></a>
 
-- Cada historia de usuario vista y aceptada por todos los miembros del equipo
+- Cada historia de usuario vista y aceptada por todos los miembros del equipo.
+- Las tareas de las que depende estan completadas.
 - El prototipo debe de estar listo para ser implementado, detallando los elementos que se deben de implementar.
 - Las historias de usuario deben poder ser implementadas en un sprint de 2 semanas como máximo.
 - Requisitos no funcionales deben de estar detallados.
@@ -79,6 +86,12 @@ El rol del Product Owner (PO) lo ocupara Martín Gulla, mientras que el rol del 
 - El producto cumple con los estándares de calidad del consumidor. 
 - Debe estar todo el proceso completamente documentado.
 - El propietario del producto ha aprobado y aceptado lo que se ha hecho en la iteración.
+
+#### Definition of Done de los prototipos
+
+- No hay una pantalla del prototipo a la cual no se pueda llegar/de la cual no se pueda salir.
+- Se sigue un estilo similar entre todas las pantallas prototipadas.
+- Validado con posibles usuarios si el flujo de la funcionalidad es entendible.
 
 
 ## Repositorio del proyecto<a name="Repositorio_del_proyecto"></a>
@@ -96,6 +109,13 @@ poseen conocimientos, es facil de aprender y de utilizar.
 
 
 # Iteración 1<a name="Iteración_1"></a>
+
+## Objetivos de la iteracion
+
+- Creación del Azure board.
+- Creación del product backlog a partir de los requerimientos.
+- Estudiar posibles competidores.
+- Organizacion del equipo en roles
 
 ## Identificación del problema a resolver<a name="Identificación_del_problema_a_resolver"></a>
 
@@ -225,6 +245,12 @@ Cada user story tiene su propio criterio de aceptacion, dependiendo de lo que la
 ![image](https://i.imgur.com/J2WmKsY.jpeg)
 ![image](https://i.imgur.com/csFPL2T.jpeg)
 
+#### Priorizacion de las tareas
+
+![image](https://i.imgur.com/r4E3QIj.jpeg)
+
+Como se puede ver en la imagen anterior, se realizo una priorizacion de tareas por parte dle Product Owner. Tambien les dimos story points decididos entre todo el equipo de desarrollo junto con el el Product Owner.
+
 ## Dailys<a name="Dailys"></a>
 ### Primera Daily 23/09/2022
 En esta primra daily, definimos los roles de cada uno de los integrantes, definimos cuales iban a ser las adapataciones necesaria del marco. Ademas definimos las tareas a realizar hasta la proxima daily de cada integrante. Dichas tareas fueron: para Ignacio, Joaquin y Martin, hacer ingenieria inversa de una aplicacion competidora a nuestra aplicacion. Para Juan, fue hacer el entendimiento del MVP.
@@ -251,3 +277,13 @@ Cada integrante hizo aproximadamente una hora por daily ya que esta fue la durac
 Evidencia de Retrospective:
 ![image](https://i.imgur.com/4A0J8XO.png)
 ![image](https://i.imgur.com/Z4DplZA.png)
+
+### Reflexion y conclusiones
+
+A partir de los sticky notes que pusieron notamos que a la hora de realizar tareas, estas se completan de forma exitosa, el mayor problema del equipo se encuentra a la hora de coordinar las reuniones y en el momento de las reuniones, ya que por un motivo u otro, nos terminamos desconcentrando y desviando el tema.
+
+Para solucionar uno de estos problemas, lo que decidimos hacer es programar las reuniones por medios como Google Calendar, para tener un recordatorio de cuando va a ser, y de esta forma reducir las demoras por olvido. En cuanto a las distracciones durante las mismas, intentaremos mejorar esto al momento de reunirnos.
+
+## Valor agregado a la aplicacion
+
+Como se menciono anteriormente, el equipo decidio agregar una funcionalidad extra a las pedidas en la letra, esta siendo todo lo vinculado a la tarjeta STM. Esta idea surgio de la aplicacion competidora Como Ir, la cual permite ver la cantidad de boletos que tiene la tarjeta de alguien. Nosotros decidimos ir un paso mas y permitirle al usuario tambien poder recargar boletos por medio de nuestra aplicacion.
