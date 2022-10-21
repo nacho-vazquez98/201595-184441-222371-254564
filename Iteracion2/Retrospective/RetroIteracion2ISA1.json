@@ -1,0 +1,199 @@
+{
+    "Actions": [
+        {
+            "author": {
+                "name": "Joaquin Sommer",
+                "email": "sommerjoaquin@gmail.com"
+            },
+            "content": "Dailys escritas cada 4 dias",
+            "group": null,
+            "votes": 0,
+            "date": "2022-10-21T21:17:11.987Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Martin Gulla",
+                "email": "martingulla00@gmail.com"
+            },
+            "content": "Empezar la siguiente iteracion la primera semana que este disponible. Hacer 5 tickets los primeros 5 dias",
+            "group": null,
+            "votes": 26,
+            "date": "2022-10-21T21:04:30.383Z",
+            "comments": []
+        }
+    ],
+    "Goal": [
+        {
+            "author": {
+                "name": "Joaquin Sommer",
+                "email": "sommerjoaquin@gmail.com"
+            },
+            "content": "Darle valor extra al cliente",
+            "group": null,
+            "votes": 0,
+            "date": "2022-10-21T21:01:34.285Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Juan Toledo",
+                "email": "juansebastiantoledofreire@gmail.com"
+            },
+            "content": "Sobrepasar a la competencia",
+            "group": null,
+            "votes": 0,
+            "date": "2022-10-21T21:04:21.092Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Martin Gulla",
+                "email": "martingulla00@gmail.com"
+            },
+            "content": "Mejorar la experiencia de las personas al movilizarse con omnibus",
+            "group": null,
+            "votes": 0,
+            "date": "2022-10-21T21:01:24.744Z",
+            "comments": []
+        }
+    ],
+    "Wind": [
+        {
+            "author": {
+                "name": "Joaquin Sommer",
+                "email": "sommerjoaquin@gmail.com"
+            },
+            "content": "Buena actitud del equipo",
+            "group": null,
+            "votes": 0,
+            "date": "2022-10-21T21:02:43.499Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Joaquin Sommer",
+                "email": "sommerjoaquin@gmail.com"
+            },
+            "content": "Comunicacion",
+            "group": null,
+            "votes": 0,
+            "date": "2022-10-21T21:05:58.379Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Juan Toledo",
+                "email": "juansebastiantoledofreire@gmail.com"
+            },
+            "content": "Seguir con la calidad del trabajo",
+            "group": null,
+            "votes": 1,
+            "date": "2022-10-21T21:02:38.284Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Martin Gulla",
+                "email": "martingulla00@gmail.com"
+            },
+            "content": "Las ganas de exonerar la materia :)\n",
+            "group": null,
+            "votes": 0,
+            "date": "2022-10-21T21:03:16.511Z",
+            "comments": []
+        }
+    ],
+    "Rocks": [
+        {
+            "author": {
+                "name": "Joaquin Sommer",
+                "email": "sommerjoaquin@gmail.com"
+            },
+            "content": "Hacer un prototipo muy simple",
+            "group": null,
+            "votes": 0,
+            "date": "2022-10-21T21:04:35.026Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Juan Toledo",
+                "email": "juansebastiantoledofreire@gmail.com"
+            },
+            "content": "Procastinar",
+            "group": null,
+            "votes": 0,
+            "date": "2022-10-21T21:01:28.792Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Martin Gulla",
+                "email": "martingulla00@gmail.com"
+            },
+            "content": "Dejar todo a ultimo momento y no llegar a las deadlines",
+            "group": null,
+            "votes": 0,
+            "date": "2022-10-21T21:02:55.433Z",
+            "comments": []
+        }
+    ],
+    "Anchor": [
+        {
+            "author": {
+                "name": "Joaquin Sommer",
+                "email": "sommerjoaquin@gmail.com"
+            },
+            "content": "Poca organizacion",
+            "group": null,
+            "votes": 0,
+            "date": "2022-10-21T21:02:22.527Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Joaquin Sommer",
+                "email": "sommerjoaquin@gmail.com"
+            },
+            "content": "Mala organizacion de las dailys",
+            "group": null,
+            "votes": 0,
+            "date": "2022-10-21T21:06:07.339Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Joaquin Sommer",
+                "email": "sommerjoaquin@gmail.com"
+            },
+            "content": "Nos distraernos en las reuniones",
+            "group": null,
+            "votes": 0,
+            "date": "2022-10-21T21:06:37.920Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Juan Toledo",
+                "email": "juansebastiantoledofreire@gmail.com"
+            },
+            "content": "Desorden",
+            "group": null,
+            "votes": 0,
+            "date": "2022-10-21T21:03:33.046Z",
+            "comments": []
+        },
+        {
+            "author": {
+                "name": "Martin Gulla",
+                "email": "martingulla00@gmail.com"
+            },
+            "content": "Desorganizacion",
+            "group": null,
+            "votes": 0,
+            "date": "2022-10-21T21:03:56.348Z",
+            "comments": []
+        }
+    ]
+}
