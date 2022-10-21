@@ -1,4 +1,4 @@
-# Iteacion 2
+# Iteracion 2
 
 # Indice
 
@@ -41,6 +41,15 @@ Los cambios son minimos (agregar un icono de informacion en la seccion de lineas
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSdz4v2TZwRcXztKyiRj-5eYdIQNu0ji19rUhZ4PKewrkyEjaA/viewform">Encuesta de validacion</a>
 
 [Resultados de Encuesta de validacion](./Encuestas/EncuestaValidacionDeUsuarios.xlsx)
+
+
+## Registro Daily<a name="Registro_Daily"></a>
+![image](https://i.imgur.com/kbVxsl4.png)
+
+Registro de daily 19/10/2022.
+
+Por dificultades del equipo de ahora en adelante cambiaremos la daily a una modalidad de mensajes en la que se dirá, lo que se hizo, lo que se hará y los problemas en los que los miembros se encuentran trancados.
+
 
 ## Retrospective
 
