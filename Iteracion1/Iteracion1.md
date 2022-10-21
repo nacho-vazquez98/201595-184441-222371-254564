@@ -1,6 +1,6 @@
-# Iteracion 1
+# Iteración 1
 
-# Indice
+# Índice
 
 - [Identificación del problema a resolver](#Identificación_del_problema_a_resolver)
     - [Analisis del entorno](#Analisis_del_entorno)
@@ -19,7 +19,7 @@
 - [Sprint Planning](#Sprint_Planning)
 - [Horas dedicadas](#Horas_dedicadas)
 - [Retrospective](#Retrospective)
-
+---
 
 ## Objetivos de la iteracion<a name="Identificación_del_problema_a_resolver"></a>
 
