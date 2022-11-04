@@ -123,10 +123,9 @@ Registro de daily 1/11/2022.
 
 Al igual que la iteración pasada, al finalizar las tareas, hicimos una retro del sprint
 
-![image](https://i.imgur.com/Re0bVHS.jpg)
+![image](https://i.imgur.com/OFTeJrp.png)
 
 [Información de la retro](./Retrospective/RetroIteracion2ISA1.json)
 
-De esta retro pudimos ver que sigue el problema de la organizacion, y nos planteamos nuevas acciones a tomar.
-
+De esta retro pudimos ver que sigue el problema de la organizacion.
 
