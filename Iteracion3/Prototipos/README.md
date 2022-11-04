@@ -1,4 +1,4 @@
-# Iteración 2
+# Iteración 3
 
 # Índice
 
@@ -55,6 +55,27 @@ Luego de hacer todas las user stories y validar el prototipo con los usuarios ll
 
 [Resultados de Encuesta de validacion](./Encuestas/EncuestaValidacionDeUsuarios.xlsx)
 
+### Transcripción de entrevista para validación
+
+> Encuestador: Hola buenas tardes, te envío el link de la aplicación que te comente anteriormente, para que nos puedas dar algo de feedback.
+
+> Encuestado: si por supuesto enviame todo.
+
+> Encuestador: Aqui te dejo el link: https://www.figma.com/proto/n5qQQEU2xJSCWDSANcSIBM/Untitled?node-id=40%3A8&scaling=scale-down&page-id=0%3A1&starting-point-node-id=40%3A8
+
+> Encuestador: Te comento que esto es simplemente un prototipo para que el usuario pueda entender el funcionamiento final de la aplicación, por lo que esto puede y seguramente tendrá cambios.
+
+> Encuestador: También te pido por favor que me comentes si tuviste alguna complicación con el prototipo, si la interfaz es cómoda e intuitiva y si le harias algun cambio o le agregarías algo a la aplicación final
+
+> Encuestado: Cuando intente filtrar por línea no funcionó bien el prototipo y no entendi que hacer
+
+> Encuestado: Retoques a la interfaz gráfica, sobre todo en "líneas cercanas" los rectángulos azules de las respectivas líneas.
+
+> Encuestado: Calificar chófer y guarda de cada línea. Y que cada ómnibus tenga su número de referencia para calificar además sería útil que cuando buscás líneas, te muestre los horarios teóricos de cuando pasa cada bondi
+
+> Encuestador: Te agradezco enormemente por este feedback, son un montón de puntos en los que no pensamos, mil gracias.
+
+> Encuestado: Por nada.
 
 ## Registro Daily<a name="Registro_Daily"></a>
 
