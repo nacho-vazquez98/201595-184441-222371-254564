@@ -6,7 +6,7 @@
 - [Objetivo de la iteración](#Objetivo-de-la-iteracion)
 - [Realización de tareas del sprint](#Realización_de_tareas_del_sprint)
   - [Tareas realizadas](#Tareas_realizadas)
-- [Prototipo generado hasta el momento](#Prototipo_generado_hasta_el_momento)
+- [Prototipo final](#Prototipo_final)
 - [Validación de usuarios](#Validacion_de_usuarios)
 - [Registro Daily](#Registro_Daily)
 - [Retrospective](#Retrospective)
@@ -43,17 +43,11 @@ Las tareas realizadas en este sprint fueron las siguientes
 ![image](https://i.imgur.com/y6bG8rN.png)
 
 
-## Prototipo generado hasta el momento<a name="Prototipo_generado_hasta_el_momento"></a>
+## Prototipo final<a name="Prototipo_final"></a>
 
-A partir de las tareas, llegamos a el siguiente prototipo
+Luego de hacer todas las user stories y validar el prototipo con los usuarios llegamos al prototipo final que se encuentra en el siguiente link
 
-[Prototipo V1](./Prototipos/V1.pdf)
-
-Luego de validar con los usuarios, nos dimos cuenta que no era muy intuitivo llegar a la información de una linea, esto nos llevo a cambiar ligeramente el diseño, y este quedo de la siguiente forma
-
-[Prototipo V2](./Prototipos/V2.pdf)
-
-Los cambios son minimos (agregar un icono de información en la sección de lineas), pero creemos que va a ayudar a que los usuarios encuentren esta funcionalidad. Esto se validara en la siguiente iteración.
+[Prototipo V1](./Prototipos/V3.pdf)
 
 ## Validación de usuarios<a name="Validacion_de_usuarios"></a>
 
@@ -63,9 +57,14 @@ Los cambios son minimos (agregar un icono de información en la sección de line
 
 
 ## Registro Daily<a name="Registro_Daily"></a>
-![image](https://i.imgur.com/kbVxsl4.png)
 
-Registro de daily 19/10/2022.
+
+Registro de daily 25/10/2022.
+
+Registro de daily 29/10/2022.
+
+Registro de daily 1/11/2022.
+
 
 Por dificultades del equipo de ahora en adelante cambiaremos la daily a una modalidad de mensajes en la que se dirá, lo que se hizo, lo que se hará y los problemas en los que los miembros se encuentran trancados.
 
