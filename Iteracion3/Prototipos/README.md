@@ -89,6 +89,19 @@ Luego de hacer todas las user stories y validar el prototipo con los usuarios ll
 
 > Encuestado: Por nada.
 
+### Discusión de feedback
+
+En primer lugar obtuvimos el comentario “Cuando intenté filtrar por línea no funcionó bien el prototipo y no entendí qué hacer”.
+Con respecto a esto decidimos no prestar mucha atención ya que es una funcionalidad básica y que nos dio problemas por falta de conocimiento sobre figma, por lo que tomamos nota como cambio a mejorar en el prototipo pero no en la aplicación final.
+
+Siguiente comentario: “Retoques a la interfaz gráfica, sobre todo en "líneas cercanas" los rectángulos azules de las respectivas líneas.” 
+Aquí tomamos nota, y probamos un par de implementaciones para líneas cercanas, cambiamos el prototipo y será necesario un nuevo testeo.
+
+“Calificar chófer y guarda de cada línea. Y que cada ómnibus tenga su número de referencia para calificar además sería útil que cuando buscás líneas, te muestre los horarios teóricos de cuando pasa cada bondi”
+
+Este comentario ha sido uno de los mejores en nuestro feedback, consideramos que es algo relativamente simple de implementar y que le daría una distinción notoria a la aplicación. Sería buena idea agregar esto al sprint backlog, para una futura implementación. 
+
+
 ## Registro Daily<a name="Registro_Daily"></a>
 
 Finalmente decidimos seguir haciendo dailys por videollamada ya que nos parecio mas facil de cumplir que mandar un mensaje y la facilidad de comunicacion es mayor por videollamada. 
