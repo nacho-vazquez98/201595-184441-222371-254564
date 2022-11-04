@@ -17,71 +17,60 @@ Entrega como requisito para la materia de : Ingenieria de Software Agil 1
 
 ---
 # Indice
-
-- [Obligatorio de Ingeniería de Software Agil 1](#obligatorio-de-ingeniería-de-software-agil-1)
-- [Indice](#indice)
-- [Definición del marco de trabajo<a name="Definición_del_marco_de_trabajo"></a>](#definición-del-marco-de-trabajo)
-	- [Adaptaciones del marco SCRUM<a name="Adaptaciones_del_marco_SCRUM"></a>](#adaptaciones-del-marco-scrum)
-	- [Definición de roles del equipo<a name="Definición_de_roles_del_equipo"></a>](#definición-de-roles-del-equipo)
-	- [Politicas de trabajo<a name="Politicas_de_trabajo"></a>](#politicas-de-trabajo)
-		- [Definition of Ready<a name="Definition_of_Ready"></a>](#definition-of-ready)
-		- [Definition of Done<a name="Definition_of_Done"></a>](#definition-of-done)
-			- [Definition of Done de los prototipos](#definition-of-done-de-los-prototipos)
-	- [Repositorio del proyecto<a name="Repositorio_del_proyecto"></a>](#repositorio-del-proyecto)
-		- [Flujo de trabajo con GIT<a name="Flujo_de_trabajo_con_GIT"></a>](#flujo-de-trabajo-con-git)
-	- [Desarrollo de prototipo<a name="Desarrollo_de_prototipo"></a>](#desarrollo-de-prototipo)
-- [Iteraciones<a name="Iteraciones"></a>](#iteraciones)
-	- [Iteracion 1<a name="Iteracion_1"></a>](#iteracion-1)
-		- [Objetivos de la iteracion<a name="Identificación_del_problema_a_resolver"></a>](#objetivos-de-la-iteracion)
-		- [Identificación del problema a resolver<a name="Identificación_del_problema_a_resolver"></a>](#identificación-del-problema-a-resolver)
-			- [Analisis del entorno<a name="Analisis_del_entorno"></a>](#analisis-del-entorno)
-				- [Entendimiento del MVP<a name="Entendimiento_del_MVP"></a>](#entendimiento-del-mvp)
-				- [Ingeniería inversa sobre aplicaciones conocidas similares<a name="Ingeniería_inversa_sobre_aplicaciones_conocidas_similares"></a>](#ingeniería-inversa-sobre-aplicaciones-conocidas-similares)
-				- [Identificación de interesados<a name="Identificación_de_interesados"></a>](#identificación-de-interesados)
-				- [Estudio de competidores<a name="Estudio_de_competidores"></a>](#estudio-de-competidores)
-			- [Funcionalidades por interesado<a name="Funcionalidades_por_interesado"></a>](#funcionalidades-por-interesado)
-		- [Definición del problema<a name="Definición_del_problema"></a>](#definición-del-problema)
-			- [Story Map<a name="Story_Map"></a>](#story-map)
-			- [Product Backlog<a name="Product_Backlog"></a>](#product-backlog)
-				- [Epicas<a name="Epicas"></a>](#epicas)
-				- [Historias de usuarios<a name="Historias_de_usuarios"></a>](#historias-de-usuarios)
-				- [Criterios de aceptacion<a name="Criterios_de_aceptacion"></a>](#criterios-de-aceptacion)
-				- [Priorizacion de las tareas](#priorizacion-de-las-tareas)
-		- [Dailys<a name="Dailys"></a>](#dailys)
-			- [Primera Daily 23/09/2022](#primera-daily-23092022)
-			- [Segunda Daily 30/09/2022](#segunda-daily-30092022)
-			- [Tercera Daily 02/10/2022](#tercera-daily-02102022)
-			- [Cuarta Daily 07/10/22](#cuarta-daily-071022)
-		- [Sprint Planning<a name="Sprint_Planning"></a>](#sprint-planning)
-		- [Horas dedicadas<a name="Horas_dedicadas"></a>](#horas-dedicadas)
-		- [Retrospective<a name="Retrospective"></a>](#retrospective)
-			- [Reflexion y conclusiones](#reflexion-y-conclusiones)
-		- [Valor agregado a la aplicacion](#valor-agregado-a-la-aplicacion)
-- [Iteracion 2<a name="Iteracion_2"></a>](#iteracion-2)
-		- [Objetivo de la iteración<a name="Objetivo-de-la-iteracion"></a>](#objetivo-de-la-iteración)
-		- [Realización de tareas del sprint<a name="Realización_de_tareas_del_sprint"></a>](#realización-de-tareas-del-sprint)
-			- [Tareas realizadas<a name="Tareas_realizadas"></a>](#tareas-realizadas)
-		- [Velocidad del equipo<a name="Velocidad_del_equipo"></a>](#velocidad-del-equipo)
-		- [Prototipo generado hasta el momento<a name="Prototipo_generado_hasta_el_momento"></a>](#prototipo-generado-hasta-el-momento)
-		- [Validación de usuarios<a name="Validacion_de_usuarios"></a>](#validación-de-usuarios)
-		- [Registro Daily<a name="Registro_Daily"></a>](#registro-daily)
-		- [Retrospective<a name="Retrospective"></a>](#retrospective-1)
-	- [Iteracion 3 <a name="Iteracion_3"></a>](#iteracion-3-)
-		- [Definición de los eventos Scrum<a name="Eventos-Scrum_I3"></a>](#definición-de-los-eventos-scrum)
-			- [Dailys<a name="Dailys_I3"></a>](#dailys-1)
-			- [Planning/Grooming<a name="Planin_I3"></a>](#planninggrooming)
-			- [Retro<a name="Retro_I3"></a>](#retro)
-		- [Objetivo de la iteración<a name="Objetivo-de-la-iteracion_I3"></a>](#objetivo-de-la-iteración-1)
-		- [Backlog del sprint <a name="Backlog_I3"></a>](#backlog-del-sprint-)
-		- [Velocidad del equipo<a name="Velocidad_del_equipo_I3"></a>](#velocidad-del-equipo-1)
-		- [Realización de tareas del sprint<a name="Realización_de_tareas_del_sprint_I3"></a>](#realización-de-tareas-del-sprint-1)
-			- [Tareas realizadas<a name="Tareas_realizadas_I3"></a>](#tareas-realizadas-1)
-			- [Prototipo final<a name="Prototipo_fina_I3"></a>](#prototipo-final)
-			- [Validación de usuarios<a name="Validacion_de_usuarios_I3"></a>](#validación-de-usuarios-1)
-		- [Transcripción de entrevista para validación<a name="Transcripcion_Entrevista_I3"></a>](#transcripción-de-entrevista-para-validación)
-		- [Discusión de feedback<a name="Discucion_feedback_I3"></a>](#discusión-de-feedback)
-		- [Registro Daily<a name="Registro_Daily_I3"></a>](#registro-daily-1)
-		- [Retrospective<a name="Retrospective_I3"></a>](#retrospective-2)
+- [Definición del marco de trabajo](#Definición_del_marco_de_trabajo)
+	- [Adaptaciones del marco SCRUM](#Adaptaciones_del_marco_SCRUM)
+	- [Definición de roles del equipo](#Definición_de_roles_del_equipo)
+	- [Politicas de trabajo](#Politicas_de_trabajo)
+		- [Definition of Ready](#Definition_of_Ready)
+		- [Definition of Done](#Definition_of_Done)
+			- [Definition of Done de los prototipos](#Definition_of_done_de_los_prototipos)
+	- [Repositorio del proyecto](#Repositorio_del_proyecto)
+		- [Flujo de trabajo con GIT](#Flujo_de_trabajo_con_GIT)
+	- [Desarrollo de prototipo](#Desarrollo_de_prototipo)
+- [Iteraciones](#Iteraciones)
+	- [Iteracion 1](#Iteracion_1)
+		- [Identificación del problema a resolver](#Identificación_del_problema_a_resolver)
+			- [Analisis del entorno](#Analisis_del_entorno)
+				- [Entendimiento del MVP](#Entendimiento_del_MVP)
+				- [Ingeniería inversa sobre aplicaciones conocidas similares](#Ingeniería_inversa_sobre_aplicaciones_conocidas_similares)
+				- [Identificación de interesados](#Identificación_de_interesados)
+				- [Estudio de competidores](#Estudio_de_competidores)
+			    - [Funcionalidades por interesado](#Funcionalidades_por_interesado)
+			- [Definición del problema](#Definición_del_problema)
+			    - [Story Map](#Story_Map)
+			    - [Product Backlog](#Product_Backlog)
+				- [Epicas](#Epicas)
+				- [Historias de usuarios](#Historias_de_usuarios)
+			    - [Criterios de aceptacion](#Criterios_de_aceptacion)
+			- [Dailys](#Dailys)
+			- [Sprint Planning](#Sprint_Planning)
+			- [Horas dedicadas](#Horas_dedicadas)
+			- [Retrospective](#Retrospective)
+	- [Iteracion 2](#Iteracion_2)
+		- [Objetivo de la iteración](#Objetivo-de-la-iteracion)
+		- [Realización de tareas del sprint](#Realización_de_tareas_del_sprint)
+		  - [Tareas realizadas](#Tareas_realizadas)
+		  - [Velocidad del equipo](#Velocidad_del_equipo)
+		- [Prototipo generado hasta el momento](#Prototipo_generado_hasta_el_momento)
+		- [Validación de usuarios](#Validacion_de_usuarios)
+		- [Registro Daily](#Registro_Daily)
+		- [Retrospective](#Retrospective)
+	- [Iteracion 3](#Iteracion_3)
+		- [Definición de los eventos Scrum](#Eventos-Scrum_I3)
+		  - [Dailys](#Dailys_I3)
+		  - [Planning/Grooming](#Planning_Grooming_I3)
+		  - [Retro](#Retro_I3)
+		- [Objetivo de la iteración](#Objetivo-de-la-iteracion_I3)
+		- [Backlog del sprint](#Backlog_I3)
+		- [Velocidad del equipo](#Velocidad_del_equipo_I3)
+		- [Realización de tareas del sprint](#Realización_de_tareas_del_sprint_I3)
+		  - [Tareas realizadas](#Tareas_realizadas_I3)
+		  - [Prototipo final](#Prototipo_fina_I3)
+		  - [Validación de usuarios](#Validacion_de_usuarios_I3)
+		- [Transcripción de entrevista para validación](#Transcripcion_Entrevista_I3)
+		- [Discusión de feedback](#Discucion_feedback_I3)
+		- [Registro Daily](#Registro_Daily_I3)
+		- [Retrospective](#Retrospective_I3)
  
 ---
       
@@ -124,7 +113,7 @@ Los developers, junto con el Product Owner, fueron los que estimaron las tareas 
 - Debe estar todo el proceso completamente documentado.
 - El propietario del producto ha aprobado y aceptado lo que se ha hecho en la iteración.
 
-#### Definition of Done de los prototipos
+#### Definition of Done de los prototipos<a name="Definition_of_done_de_los_prototipos"></a>
 
 - No hay una pantalla del prototipo a la cual no se pueda llegar/de la cual no se pueda salir.
 - Se sigue un estilo similar entre todas las pantallas prototipadas.
@@ -148,7 +137,7 @@ poseen conocimientos, es facil de aprender y de utilizar.
 # Iteraciones<a name="Iteraciones"></a>
 
 ## Iteracion 1<a name="Iteracion_1"></a>
-### Objetivos de la iteracion<a name="Identificación_del_problema_a_resolver"></a>
+### Objetivos de la iteracion<a name="Objetivos_de_la_iteracion"></a>
 
 - Creación del Azure board.
 - Creación del product backlog a partir de los requerimientos.
@@ -283,23 +272,23 @@ Cada user story tiene su propio criterio de aceptacion, dependiendo de lo que la
 ![image](https://i.imgur.com/J2WmKsY.jpeg)
 ![image](https://i.imgur.com/csFPL2T.jpeg)
 
-##### Priorizacion de las tareas
+##### Priorizacion de las tareas<a name="Priorizacion_de_las_tareas"></a>
 
 ![image](https://i.imgur.com/r4E3QIj.jpeg)
 
 Como se puede ver en la imagen anterior, se realizo una priorizacion de tareas por parte dle Product Owner. Tambien les dimos story points decididos entre todo el equipo de desarrollo junto con el el Product Owner.
 
 ### Dailys<a name="Dailys"></a>
-#### Primera Daily 23/09/2022
+#### Primera Daily 23/09/2022<><a name="Primera_Daily"></a>
 En esta primra daily, definimos los roles de cada uno de los integrantes, definimos cuales iban a ser las adapataciones necesaria del marco. Ademas definimos las tareas a realizar hasta la proxima daily de cada integrante. Dichas tareas fueron: para Ignacio, Joaquin y Martin, hacer ingenieria inversa de una aplicacion competidora a nuestra aplicacion. Para Juan, fue hacer el entendimiento del MVP.
 
-#### Segunda Daily 30/09/2022
+#### Segunda Daily 30/09/2022<a name="Segunda_Daily"></a>
 Discutimos las epicas que fuimos armando a partir de las features presentadas en la letra, y la que decidimos agregar para brindar un valor adicional al producto, y user stories de las que se compone cada una, con su descripcion y criterio de aceptacion de la misma.
 
-#### Tercera Daily 02/10/2022
+#### Tercera Daily 02/10/2022<a name="Tercera_Daily"></a>
 Priorizamos las epicas y las user stories, ademas asignamos un storie point a cada user storie. Vinculamos cada user storie con su respectiva epica.
 
-#### Cuarta Daily 07/10/22
+#### Cuarta Daily 07/10/22<a name="Cuarta_Daily"></a>
 Completamos definition of ready y definition of done, creamos el story map, y continuamos llenando la documentacion con las actividades que fuimos haciendo a lo largo de la iteracion.
 
 ### Sprint Planning<a name="Sprint_Planning"></a>
@@ -388,14 +377,14 @@ Al igual que la iteración pasada, al finalizar las tareas, hicimos una retro de
 
 De esta retro pudimos ver que sigue el problema de la organizacion, y nos planteamos nuevas acciones a tomar.
 
-## Iteracion 3 <a name="Iteracion_3"></a>
+## Iteracion 3<a name="Iteracion_3"></a>
 ### Definición de los eventos Scrum<a name="Eventos-Scrum_I3"></a>
 
 #### Dailys<a name="Dailys_I3"></a>
 
 Decidimos realizar dailys cada 4 días porque la profundidad del proyecto no era suficiente para realizar dailys diarias. De esta manera teníamos tiempo para ir realizando los tickets que cada uno tenía asignado. En nuestras dailys cada uno comenta en que tickets estuvo trabajando los días anteriores y en que va a trabajar hasta la próxima daily. También comentamos si estamos bloqueados por algo.
 
-#### Planning/Grooming<a name="Planin_I3"></a>
+#### Planning/Grooming<a name="Planning_Grooming_I3"></a>
 
 Las planning las realizamos el ultimo día del sprint. Los viernes cada dos semanas. En estas reuniones estimamos y priorizamos las user stories que vamos a realizar en el próximo sprint. Al principio también asignábamos las user stories pero después nos dimos cuenta que no era correcto asignarlas en la planning y era mejor que cada uno se asignara a medida que iba haciendo.  
 
@@ -408,7 +397,7 @@ Las retro también las realizamos el ultimo día del sprint. Los viernes cada do
 El objetivo de esta segunda iteración del prototipado es completar las feature que no estaban completas y finalizar con las que todabia no se habian comenzado, por medio de prototipos creados en Figma. 
 Estos prototipos seran validados por usuarios por medio de encuestas, y luego de analizar las respuestas recibidas, se pueden llegar a efectuar cambios a los prototipos ya hechos.
 
-### Backlog del sprint <a name="Backlog_I3"></a>
+### Backlog del sprint<a name="Backlog_I3"></a>
 
 Este fue el backlog del sprint pero la foto fue sacada al final de la iteracion. Por esa razon las user stories se encuentran en estado resolved.
 
