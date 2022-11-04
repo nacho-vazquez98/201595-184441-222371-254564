@@ -20,7 +20,7 @@ Decidimos realizar dailys cada 4 días porque la profundidad del proyecto no era
 
 ## Planning/Grooming
 
-Las planning las realizamos el ultimo día del sprint. Los viernes cada dos semanas. En estas reuniones estimamos y priorizamos las user stories que vamos a realizar en el próximo sprint. Al principio también asignábamos las user stories pero después nos dimos cuenta que no era correcto asignarlas en la planning y era mejor que cada uno se asignara a medida que iba haciendo. 
+Las planning las realizamos el ultimo día del sprint. Los viernes cada dos semanas. En estas reuniones estimamos y priorizamos las user stories que vamos a realizar en el próximo sprint. Al principio también asignábamos las user stories pero después nos dimos cuenta que no era correcto asignarlas en la planning y era mejor que cada uno se asignara a medida que iba haciendo.  
 
 ## Retro
 
@@ -30,6 +30,12 @@ Las retro también las realizamos el ultimo día del sprint. Los viernes cada do
 
 El objetivo de esta segunda iteración del prototipado es completar las feature que no estaban completas y finalizar con las que todabia no se habian comenzado, por medio de prototipos creados en Figma. 
 Estos prototipos seran validados por usuarios por medio de encuestas, y luego de analizar las respuestas recibidas, se pueden llegar a efectuar cambios a los prototipos ya hechos.
+
+### Backlog del sprint
+
+Este fue el backlog del sprint pero la foto fue sacada al final de la iteracion. Por esa razon las user stories se encuentran en estado resolved.
+
+![image](https://i.imgur.com/sQyLsHu.png)
 
 
 ## Realización de tareas del sprint<a name="Realización_de_tareas_del_sprint"></a>
@@ -79,15 +85,19 @@ Luego de hacer todas las user stories y validar el prototipo con los usuarios ll
 
 ## Registro Daily<a name="Registro_Daily"></a>
 
+Finalmente decidimos seguir haciendo dailys por videollamada ya que nos parecio mas facil de cumplir que mandar un mensaje y la facilidad de comunicacion es mayor por videollamada. 
 
 Registro de daily 25/10/2022.
 
+![image](https://i.imgur.com/X73noC6.png)
+
 Registro de daily 29/10/2022.
+
+![image](https://i.imgur.com/frIDOCi.png)
 
 Registro de daily 1/11/2022.
 
-
-Por dificultades del equipo de ahora en adelante cambiaremos la daily a una modalidad de mensajes en la que se dirá, lo que se hizo, lo que se hará y los problemas en los que los miembros se encuentran trancados.
+![image](https://i.imgur.com/Yc4BiI6.png)
 
 
 ## Retrospective<a name="Retrospective"></a>
