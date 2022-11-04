@@ -61,6 +61,7 @@ Entrega como requisito para la materia de : Ingenieria de Software Agil 1
 		- [Objetivo de la iteración<a name="Objetivo-de-la-iteracion"></a>](#objetivo-de-la-iteración)
 		- [Realización de tareas del sprint<a name="Realización_de_tareas_del_sprint"></a>](#realización-de-tareas-del-sprint)
 			- [Tareas realizadas<a name="Tareas_realizadas"></a>](#tareas-realizadas)
+			- [Velocidad del equipo](#Velocidad_del_equipo)
 		- [Prototipo generado hasta el momento<a name="Prototipo_generado_hasta_el_momento"></a>](#prototipo-generado-hasta-el-momento)
 		- [Validación de usuarios<a name="Validacion_de_usuarios"></a>](#validación-de-usuarios)
 		- [Registro Daily<a name="Registro_Daily"></a>](#registro-daily)
@@ -328,6 +329,11 @@ En la iteración pasada se menciono que se habia dividido las tareas definidas p
 
 ![image](https://i.imgur.com/yarcNB4.jpg)
 
+### Velocidad del equipo<a name="Velocidad_del_equipo"></a>
+
+La velocidad del equipo (en base a story points) fue de 38, en la imagen aparecen como completadas tarde porque las marcabamos como resueltas, no completadas, debido a que no sabiamos que el azure no contaba las tasks resueltas como que estaban prontas. Cuando nos dimos cuenta de esto, las marcamos como completadas.
+
+![image](https://i.imgur.com/ZjGsbi8.jpg)
 
 ### Prototipo generado hasta el momento<a name="Prototipo_generado_hasta_el_momento"></a>
 

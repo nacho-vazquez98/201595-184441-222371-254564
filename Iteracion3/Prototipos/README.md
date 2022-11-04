@@ -6,6 +6,7 @@
 - [Objetivo de la iteración](#Objetivo-de-la-iteracion)
 - [Realización de tareas del sprint](#Realización_de_tareas_del_sprint)
   - [Tareas realizadas](#Tareas_realizadas)
+  - [Velocidad del equipo](#Velocidad_del_equipo)
 - [Prototipo final](#Prototipo_final)
 - [Validación de usuarios](#Validacion_de_usuarios)
 - [Registro Daily](#Registro_Daily)
@@ -37,6 +38,11 @@ Este fue el backlog del sprint pero la foto fue sacada al final de la iteracion.
 
 ![image](https://i.imgur.com/sQyLsHu.png)
 
+### Velocidad del equipo<a name="Velocidad_del_equipo"></a>
+
+El azure muestra como que nuestra velocidad promedio al finalizar la tercera iteracion (contando la segunda) fue de 38 story point por iteracion, esta velocidad se mantuvo constante respecto a la anterior, ya que decidimos intentar dividir las tareas para que haya una cantidad de story point similar entre cada sprint.
+
+![image](https://i.imgur.com/15Rp7Im.jpg)
 
 ## Realización de tareas del sprint<a name="Realización_de_tareas_del_sprint"></a>
 
