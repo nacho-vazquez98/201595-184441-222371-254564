@@ -50,6 +50,7 @@ Entrega como requisito para la materia de : Ingenieria de Software Agil 1
 			- [Sprint Planning](#Sprint_Planning)
 			- [Horas dedicadas](#Horas_dedicadas)
 			- [Retrospective](#Retrospective)
+		- [Cantidad de horas dedicadas](#Cantidad_de_horas_dedicadas)
 	- [Iteracion 2](#Iteracion_2)
 		- [Objetivo de la iteración](#Objetivo-de-la-iteracion)
 		- [Realización de tareas del sprint](#Realización_de_tareas_del_sprint)
@@ -59,6 +60,7 @@ Entrega como requisito para la materia de : Ingenieria de Software Agil 1
 		- [Validación de usuarios](#Validacion_de_usuarios)
 		- [Registro Daily](#Registro_Daily)
 		- [Retrospective](#Retrospective)
+		- [Horas dedicadas](#Horas_dedicadas)
 	- [Iteracion 3](#Iteracion_3)
 		- [Objetivo de la iteración](#Objetivo-de-la-iteracion_I3)
 		- [Backlog del sprint](#Backlog_I3)
@@ -71,6 +73,7 @@ Entrega como requisito para la materia de : Ingenieria de Software Agil 1
 		- [Discusión de feedback](#Discucion_feedback_I3)
 		- [Registro Daily](#Registro_Daily_I3)
 		- [Retrospective](#Retrospective_I3)
+		- [Horas dedicadas](#Horas_dedicadas_I3)
  
 ---
       
@@ -329,6 +332,26 @@ Para solucionar uno de estos problemas, lo que decidimos hacer es programar las 
 
 Como se menciono anteriormente, el equipo decidio agregar una funcionalidad extra a las pedidas en la letra, esta siendo todo lo vinculado a la tarjeta STM. Esta idea surgio de la aplicacion competidora Como Ir, la cual permite ver la cantidad de boletos que tiene la tarjeta de alguien. Nosotros decidimos ir un paso mas y permitirle al usuario tambien poder recargar boletos por medio de nuestra aplicacion.
 
+### Cantidad de horas dedicadas a la iteracion por participante <a name="Cantidad_de_horas_dedicadas"></a>
+
+| Nombre | Actividad | Horas |
+| --- | --- | --- |
+| Ignacio | Ingenieria inversa | 1 |
+| Ignacio | Documentacion | 2 |
+| Ignacio | Reuniones | 4 |
+| Ignacio | Total | 7 |
+| Juan | Documentacion | 4 |
+| Juan | Reuniones | 4 |
+| Juan | Total | 8 |
+| Joaquin | Ingenieria inversa | 1 |
+| Joaquin | Documentacion | 3 |
+| Joaquin | Reuniones | 4 |
+| Joaquin | Total | 8 |
+| Martin | Ingenieria inversa | 1 |
+| Martin | Documentacion | 2 |
+| Martin | Reuniones | 4 |
+| Martin | Total | 7 |
+
 # Iteracion 2<a name="Iteracion_2"></a>
 ### Objetivo de la iteración<a name="Objetivo-de-la-iteracion"></a>
 
@@ -390,6 +413,32 @@ Al igual que la iteración pasada, al finalizar las tareas, hicimos una retro de
 [Información de la retro](./Retrospective/RetroIteracion2ISA1.json)
 
 De esta retro pudimos ver que sigue el problema de la organizacion, y nos planteamos nuevas acciones a tomar.
+
+### Horas dedicadas <a name="Horas_dedicadas"></a>
+
+| Nombre | Actividad | Horas |
+| --- | --- | --- |
+| Ignacio | Aprendizaje de Figma | 2 |
+| Ignacio | Prototipado | 2 |
+| Ignacio | Documentacion | 4 |
+| Ignacio | Reuniones | 4 |
+| Ignacio | Total | 12 |
+| Juan | Aprendizaje de Figma | 1 |
+| Juan | Prototipado | 2 |
+| Juan | Documentacion | 4 |
+| Juan | Reuniones | 4 |
+| Juan | Total | 11 |
+| Joaquin | Aprendizaje de Figma | 2 |
+| Joaquin | Prototipado | 2 |
+| Joaquin | Documentacion | 4 |
+| Joaquin | Reuniones | 4 |
+| Joaquin | Total | 12 |
+| Martin | Aprendizaje de Figma | 1 |
+| Martin | Prototipado | 2 |
+| Martin | Documentacion | 4 |
+| Martin | Reuniones | 4 |
+| Martin | Total | 11 |
+
 
 ## Iteracion 3<a name="Iteracion_3"></a>
 
@@ -494,3 +543,24 @@ Al igual que la iteración pasada, al finalizar las tareas, hicimos una retro de
 [Información de la retro](./Retrospective/RetroIteracion2ISA1.json)
 
 De esta retro pudimos ver que sigue el problema de la organizacion.
+
+### Horas dedicadas <a name="Horas_dedicadas_I3"></a>
+
+| Nombre | Actividad | Horas |
+| --- | --- | --- |
+| Ignacio | Prototipado | 2 |
+| Ignacio | Documentacion | 4 |
+| Ignacio | Reuniones | 4 |
+| Ignacio | Total | 10 |
+| Juan | Prototipado | 2 |
+| Juan | Documentacion | 4 |
+| Juan | Reuniones | 4 |
+| Juan | Total | 10 |
+| Joaquin | Prototipado | 2 |
+| Joaquin | Documentacion | 4 |
+| Joaquin | Reuniones | 4 |
+| Joaquin | Total | 10 |
+| Martin | Prototipado | 2 |
+| Martin | Documentacion | 4 |
+| Martin | Reuniones | 4 |
+| Martin | Total | 10 |
