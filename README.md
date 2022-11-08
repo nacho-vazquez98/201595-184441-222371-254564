@@ -150,6 +150,9 @@ El prototipo será desarrollado en la herramienta de prototipado de alta fidelid
 debido a que el equipo posee conocimientos en esta herramienta, y para los que no 
 poseen conocimientos, es facil de aprender y de utilizar.
 
+Link al <a href="https://www.figma.com/proto/n5qQQEU2xJSCWDSANcSIBM/Untitled?node-id=40%3A8&scaling=scale-down&page-id=0%3A1&starting-point-node-id=40%3A8">Prototipo</a>
+
+https://www.figma.com/proto/n5qQQEU2xJSCWDSANcSIBM/Untitled?node-id=40%3A8&scaling=scale-down&page-id=0%3A1&starting-point-node-id=40%3A8
 
 # Iteraciones<a name="Iteraciones"></a>
 
