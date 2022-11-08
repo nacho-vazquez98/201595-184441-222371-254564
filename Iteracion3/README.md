@@ -1,10 +1,6 @@
 # Iteración 3
 
 # Índice
-- [Definición de los eventos Scrum](#Eventos-Scrum_I3)
-  - [Dailys](#Dailys_I3)
-  - [Planning/Grooming](#Planin_I3)
-  - [Retro](#Retro_I3)
 - [Objetivo de la iteración](#Objetivo-de-la-iteracion_I3)
 - [Backlog del sprint](#Backlog_I3)
 - [Velocidad del equipo](#Velocidad_del_equipo_I3)
@@ -17,20 +13,6 @@
 - [Registro Daily](#Registro_Daily_I3)
 - [Retrospective](#Retrospective_I3)
 ---
-
-# Definición de los eventos Scrum<a name="Eventos-Scrum_I3"></a>
-
-## Dailys<a name="Dailys_I3"></a>
-
-Decidimos realizar dailys cada 4 días porque la profundidad del proyecto no era suficiente para realizar dailys diarias. De esta manera teníamos tiempo para ir realizando los tickets que cada uno tenía asignado. En nuestras dailys cada uno comenta en que tickets estuvo trabajando los días anteriores y en que va a trabajar hasta la próxima daily. También comentamos si estamos bloqueados por algo.
-
-## Planning/Grooming<a name="Planin_I3"></a>
-
-Las planning las realizamos el ultimo día del sprint. Los viernes cada dos semanas. En estas reuniones estimamos y priorizamos las user stories que vamos a realizar en el próximo sprint. Al principio también asignábamos las user stories pero después nos dimos cuenta que no era correcto asignarlas en la planning y era mejor que cada uno se asignara a medida que iba haciendo.  
-
-## Retro<a name="Retro_I3"></a>
-
-Las retro también las realizamos el ultimo día del sprint. Los viernes cada dos semanas. En las retro nos juntamos todo el equipo y básicamente mencionamos las cosas que funcionaron bien, las cosas que podríamos mejorar y que estuvimos haciendo mal. Luego de analizar las anotaciones anotamos las acciones que debemos hacer para mejorarlas intentando que estas sean medibles.
 
 # Objetivo de la iteración<a name="Objetivo-de-la-iteracion_I3"></a>
 
