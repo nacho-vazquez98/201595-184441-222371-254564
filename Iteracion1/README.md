@@ -106,8 +106,21 @@ Por otra parte, si el día de mañana nuestra app se ampliara al mercado de los 
 
 - Usuario final
 
-Todas las funcionales de la aplicación son pensadas para el usuario final,
-el cual es el cliente de la aplicación, especificado en la parte de identificación de interesados.
+Todas las funcionales de la aplicación son pensadas para el usuario final, el cual es el cliente de la aplicación, especificado en la parte de identificación de interesados.
+
+Dentro de los usuarios finales, estos se pueden subdividir en: conductores, pasajeros e inspectores.
+
+- Conductores
+
+Los conductores son los encargados de hacer que el vehiculo este en hora en cada parada, y debe respetar el recorrido preestablecido.
+
+- Pasajeros
+
+Los pasajeros son los usuarios principales de la aplicacion, son los que van a utilizar la aplicacion para saber en que parada esta el omnibus, y en que tiempo llegara a la parada, el recorrido de los mismos, etc.
+
+- Inspectores
+
+Los inspectores son los encargados de verificar que los conductores cumplan con el recorrido preestablecido, y que los vehiculos esten en hora en cada parada.
 
 
 - Dueño del producto
@@ -115,6 +128,13 @@ el cual es el cliente de la aplicación, especificado en la parte de identificac
 La funcionalidad de STM al ser una funcionalidad agregada a lo que fue solicitado, 
 se considera como una funcionalidad de interés para el dueño del producto.
 
+| Funcionalidad | Conductor | Pasajero | Inspector | Dueño del producto |
+| --- | --- | --- | --- | --- |
+| STM | - | X | - | X |
+| Usuario | - | X | - | - |
+| Lineas de omnibus | X | X | X | - |
+| Viajes | X | X | X | - |
+| Notificaciones | - | X | - | - |
 
 ## Definición del problema<a name="Definición_del_problema"></a>
 

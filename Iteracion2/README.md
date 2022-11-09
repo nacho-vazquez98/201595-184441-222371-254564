@@ -40,11 +40,45 @@ La velocidad del equipo (en base a story points) fue de 38, en la imagen aparece
 
 A partir de las tareas, llegamos a el siguiente prototipo
 
-[Prototipo V1](./Prototipos/V1.pdf)
+![image](https://i.imgur.com/ulr2mqq.jpg)
+![image](https://i.imgur.com/A5pqrab.jpg)
+![image](https://i.imgur.com/P706NJr.jpg)
+![image](https://i.imgur.com/I3szBVo.jpg)
+![image](https://i.imgur.com/vzknxEV.jpg)
+![image](https://i.imgur.com/rorzg7a.jpg)
+![image](https://i.imgur.com/RsprCYz.jpg)
+![image](https://i.imgur.com/WI1YqSo.jpg)
+![image](https://i.imgur.com/8yQdWXT.jpg)
+![image](https://i.imgur.com/Gmh5K3e.jpg)
+![image](https://i.imgur.com/Ar5w66z.jpg)
+![image](https://i.imgur.com/t1b0ahB.jpg)
+![image](https://i.imgur.com/1Eomx91.jpg)
+![image](https://i.imgur.com/QlEyq2V.jpg)
+![image](https://i.imgur.com/gxYsrrT.jpg)
+![image](https://i.imgur.com/yo47XKs.jpg)
+![image](https://i.imgur.com/ieu2be0.jpg)
+![image](https://i.imgur.com/3knzwoN.jpg)
 
 Luego de validar con los usuarios, nos dimos cuenta que no era muy intuitivo llegar a la información de una linea, esto nos llevo a cambiar ligeramente el diseño, y este quedo de la siguiente forma
 
-[Prototipo V2](./Prototipos/V2.pdf)
+![image](https://i.imgur.com/1NyFECy.jpg)
+![image](https://i.imgur.com/Q0jaeTf.jpg)
+![image](https://i.imgur.com/Hw2wJwB.jpg)
+![image](https://i.imgur.com/thDUSUs.jpg)
+![image](https://i.imgur.com/8Aw2stE.jpg)
+![image](https://i.imgur.com/79mQXKA.jpg)
+![image](https://i.imgur.com/mV005BR.jpg)
+![image](https://i.imgur.com/wWJxJeq.jpg)
+![image](https://i.imgur.com/Z5xlPkI.jpg)
+![image](https://i.imgur.com/bD4hOaM.jpg)
+![image](https://i.imgur.com/k48MlsJ.jpg)
+![image](https://i.imgur.com/qR1oV9z.jpg)
+![image](https://i.imgur.com/EYQNlei.jpg)
+![image](https://i.imgur.com/c9iiYdz.jpg)
+![image](https://i.imgur.com/4q9H4bs.jpg)
+![image](https://i.imgur.com/GOUesom.jpg)
+![image](https://i.imgur.com/aOUZwkj.jpg)
+![image](https://i.imgur.com/RVvt1GT.jpg)
 
 Los cambios son minimos (agregar un icono de información en la sección de lineas), pero creemos que va a ayudar a que los usuarios encuentren esta funcionalidad. Esto se validara en la siguiente iteración.
 

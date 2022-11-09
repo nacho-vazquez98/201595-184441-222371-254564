@@ -242,8 +242,21 @@ Por otra parte, si el día de mañana nuestra app se ampliara al mercado de los 
 
 - Usuario final
 
-Todas las funcionales de la aplicación son pensadas para el usuario final,
-el cual es el cliente de la aplicación, especificado en la parte de identificación de interesados.
+Todas las funcionales de la aplicación son pensadas para el usuario final, el cual es el cliente de la aplicación, especificado en la parte de identificación de interesados.
+
+Dentro de los usuarios finales, estos se pueden subdividir en: conductores, pasajeros e inspectores.
+
+- Conductores
+
+Los conductores son los encargados de hacer que el vehiculo este en hora en cada parada, y debe respetar el recorrido preestablecido.
+
+- Pasajeros
+
+Los pasajeros son los usuarios principales de la aplicacion, son los que van a utilizar la aplicacion para saber en que parada esta el omnibus, y en que tiempo llegara a la parada, el recorrido de los mismos, etc.
+
+- Inspectores
+
+Los inspectores son los encargados de verificar que los conductores cumplan con el recorrido preestablecido, y que los vehiculos esten en hora en cada parada.
 
 
 - Dueño del producto
@@ -251,6 +264,13 @@ el cual es el cliente de la aplicación, especificado en la parte de identificac
 La funcionalidad de STM al ser una funcionalidad agregada a lo que fue solicitado, 
 se considera como una funcionalidad de interés para el dueño del producto.
 
+| Funcionalidad | Conductor | Pasajero | Inspector | Dueño del producto |
+| --- | --- | --- | --- | --- |
+| STM | - | X | - | X |
+| Usuario | - | X | - | - |
+| Lineas de omnibus | X | X | X | - |
+| Viajes | X | X | X | - |
+| Notificaciones | - | X | - | - |
 
 ### Definición del problema<a name="Definición_del_problema"></a>
 
@@ -382,13 +402,47 @@ La velocidad del equipo (en base a story points) fue de 38, en la imagen aparece
 
 ### Prototipo generado hasta el momento<a name="Prototipo_generado_hasta_el_momento"></a>
 
-A partir de las tareas, llegamos a el siguiente prototipo
+A partir de las tareas, llegamos a el siguiente prototipo (fotos)
 
-[Prototipo V1](./Prototipos/V1.pdf)
+![image](https://i.imgur.com/ulr2mqq.jpg)
+![image](https://i.imgur.com/A5pqrab.jpg)
+![image](https://i.imgur.com/P706NJr.jpg)
+![image](https://i.imgur.com/I3szBVo.jpg)
+![image](https://i.imgur.com/vzknxEV.jpg)
+![image](https://i.imgur.com/rorzg7a.jpg)
+![image](https://i.imgur.com/RsprCYz.jpg)
+![image](https://i.imgur.com/WI1YqSo.jpg)
+![image](https://i.imgur.com/8yQdWXT.jpg)
+![image](https://i.imgur.com/Gmh5K3e.jpg)
+![image](https://i.imgur.com/Ar5w66z.jpg)
+![image](https://i.imgur.com/t1b0ahB.jpg)
+![image](https://i.imgur.com/1Eomx91.jpg)
+![image](https://i.imgur.com/QlEyq2V.jpg)
+![image](https://i.imgur.com/gxYsrrT.jpg)
+![image](https://i.imgur.com/yo47XKs.jpg)
+![image](https://i.imgur.com/ieu2be0.jpg)
+![image](https://i.imgur.com/3knzwoN.jpg)
 
 Luego de validar con los usuarios, nos dimos cuenta que no era muy intuitivo llegar a la información de una linea, esto nos llevo a cambiar ligeramente el diseño, y este quedo de la siguiente forma
 
-[Prototipo V2](./Prototipos/V2.pdf)
+![image](https://i.imgur.com/1NyFECy.jpg)
+![image](https://i.imgur.com/Q0jaeTf.jpg)
+![image](https://i.imgur.com/Hw2wJwB.jpg)
+![image](https://i.imgur.com/thDUSUs.jpg)
+![image](https://i.imgur.com/8Aw2stE.jpg)
+![image](https://i.imgur.com/79mQXKA.jpg)
+![image](https://i.imgur.com/mV005BR.jpg)
+![image](https://i.imgur.com/wWJxJeq.jpg)
+![image](https://i.imgur.com/Z5xlPkI.jpg)
+![image](https://i.imgur.com/bD4hOaM.jpg)
+![image](https://i.imgur.com/k48MlsJ.jpg)
+![image](https://i.imgur.com/qR1oV9z.jpg)
+![image](https://i.imgur.com/EYQNlei.jpg)
+![image](https://i.imgur.com/c9iiYdz.jpg)
+![image](https://i.imgur.com/4q9H4bs.jpg)
+![image](https://i.imgur.com/GOUesom.jpg)
+![image](https://i.imgur.com/aOUZwkj.jpg)
+![image](https://i.imgur.com/RVvt1GT.jpg)
 
 Los cambios son minimos (agregar un icono de información en la sección de lineas), pero creemos que va a ayudar a que los usuarios encuentren esta funcionalidad. Esto se validara en la siguiente iteración.
 
@@ -475,9 +529,38 @@ Las tareas realizadas en este sprint fueron las siguientes
 
 #### Prototipo final<a name="Prototipo_fina_I3"></a>
 
-Luego de hacer todas las user stories y validar el prototipo con los usuarios llegamos al prototipo final que se encuentra en el siguiente link
+Luego de hacer todas las user stories y validar el prototipo con los usuarios llegamos al prototipo final (link al prototipo y fotos)
 
-[Prototipo V1](./Prototipos/V3.pdf)
+<a href="https://www.figma.com/proto/n5qQQEU2xJSCWDSANcSIBM/Untitled?node-id=40%3A8&scaling=scale-down&page-id=0%3A1&starting-point-node-id=40%3A8">https://www.figma.com/proto/n5qQQEU2xJSCWDSANcSIBM/Untitled?node-id=40%3A8&scaling=scale-down&page-id=0%3A1&starting-point-node-id=40%3A8</a>
+
+![image](https://i.imgur.com/VmbntNz.png)
+![image](https://i.imgur.com/aWfPFm0.png)
+![image](https://i.imgur.com/CjPVS3O.png)
+![image](https://i.imgur.com/6KpNJKs.png)
+![image](https://i.imgur.com/wbyjgvS.png)
+![image](https://i.imgur.com/KyUK2Vz.png)
+![image](https://i.imgur.com/tdzCRgu.png)
+![image](https://i.imgur.com/1OvFo24.png)
+![image](https://i.imgur.com/bJgO6UF.png)
+![image](https://i.imgur.com/seCnGHk.png)
+![image](https://i.imgur.com/5e6tluP.png)
+![image](https://i.imgur.com/70b8ISw.png)
+![image](https://i.imgur.com/Zs0hvfe.png)
+![image](https://i.imgur.com/aQl8thp.png)
+![image](https://i.imgur.com/gHXRRsK.png)
+![image](https://i.imgur.com/M3tpxuV.png)
+![image](https://i.imgur.com/xO1uiI3.png)
+![image](https://i.imgur.com/JHc8TzW.png)
+![image](https://i.imgur.com/1P3Mlqg.png)
+![image](https://i.imgur.com/M0IdfJA.png)
+![image](https://i.imgur.com/HAe4v4M.png)
+![image](https://i.imgur.com/gKBUuuS.png)
+![image](https://i.imgur.com/EMZ6V6R.png)
+![image](https://i.imgur.com/iR1lS4k.png)
+![image](https://i.imgur.com/oAKvgKQ.png)
+![image](https://i.imgur.com/DX40pcD.png)
+![image](https://i.imgur.com/VYnOKGQ.png)
+![image](https://i.imgur.com/s6HNSwo.png)
 
 #### Validación de usuarios<a name="Validacion_de_usuarios_I3"></a>
 

@@ -46,7 +46,34 @@ Las tareas realizadas en este sprint fueron las siguientes
 
 Luego de hacer todas las user stories y validar el prototipo con los usuarios llegamos al prototipo final que se encuentra en el siguiente link
 
-[Prototipo V1](./Prototipos/V3.pdf)
+![image](https://i.imgur.com/VmbntNz.png)
+![image](https://i.imgur.com/aWfPFm0.png)
+![image](https://i.imgur.com/CjPVS3O.png)
+![image](https://i.imgur.com/6KpNJKs.png)
+![image](https://i.imgur.com/wbyjgvS.png)
+![image](https://i.imgur.com/KyUK2Vz.png)
+![image](https://i.imgur.com/tdzCRgu.png)
+![image](https://i.imgur.com/1OvFo24.png)
+![image](https://i.imgur.com/bJgO6UF.png)
+![image](https://i.imgur.com/seCnGHk.png)
+![image](https://i.imgur.com/5e6tluP.png)
+![image](https://i.imgur.com/70b8ISw.png)
+![image](https://i.imgur.com/Zs0hvfe.png)
+![image](https://i.imgur.com/aQl8thp.png)
+![image](https://i.imgur.com/gHXRRsK.png)
+![image](https://i.imgur.com/M3tpxuV.png)
+![image](https://i.imgur.com/xO1uiI3.png)
+![image](https://i.imgur.com/JHc8TzW.png)
+![image](https://i.imgur.com/1P3Mlqg.png)
+![image](https://i.imgur.com/M0IdfJA.png)
+![image](https://i.imgur.com/HAe4v4M.png)
+![image](https://i.imgur.com/gKBUuuS.png)
+![image](https://i.imgur.com/EMZ6V6R.png)
+![image](https://i.imgur.com/iR1lS4k.png)
+![image](https://i.imgur.com/oAKvgKQ.png)
+![image](https://i.imgur.com/DX40pcD.png)
+![image](https://i.imgur.com/VYnOKGQ.png)
+![image](https://i.imgur.com/s6HNSwo.png)
 
 ## Validación de usuarios<a name="Validacion_de_usuarios_I3"></a>
 
