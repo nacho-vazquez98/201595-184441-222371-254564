@@ -309,8 +309,8 @@ Aqui listamos todas las user stories que creamos (para ver la dependencia epica-
 
 ##### Criterios de aceptacion<a name="Criterios_de_aceptacion"></a>
 Cada user story tiene su propio criterio de aceptacion, dependiendo de lo que la tarea conlleve. A continuacion se muestran dos ejemplos de las stories y sus criterios de aceptacion
-![image](https://i.imgur.com/J2WmKsY.jpeg)
-![image](https://i.imgur.com/csFPL2T.jpeg)
+![image](https://i.imgur.com/baDsFvN.jpg)
+![image](https://i.imgur.com/7n465hQ.jpg)
 
 ##### Priorizacion de las tareas<a name="Priorizacion_de_las_tareas"></a>
 
