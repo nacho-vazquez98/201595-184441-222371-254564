@@ -86,8 +86,19 @@ Para esta iteracion al no ser un proyecto tan demandante, las dailys las haremos
 
 ## Definición de roles del equipo<a name="Definición_de_roles_del_equipo"></a>
 
-Para la definición de roles del equipo, nos dividimos de la siguiente manera:
-El rol del Product Owner (PO) lo ocupara Martín Gulla, mientras que el rol del Scrum Master (SM) lo ocupara Ignacio Vázquez. Por ultimo para el Development Team (DT), al se un equipo pequeño, este estara conformado por todos los miembros del equipo: Juan Toledo, Joaquín Sommer, Martin Gulla e Ignacio Vázquez.
+### Product owner
+Quien tiene este rol procura que el equipo Scrum aporte valor al negocio en cuestión. Él representa a los stakeholders o a las partes interesadas.
+El Product Owner en este proyecto fue el principal encargado de traducir los requerimientos a User Stories, priorizar estas stories, y de definir las tareas de cada integrante para el siguiente sprint.
+
+### Scrum master
+Es el responsable de que se sigan las prácticas y valores descritos en el modelo Scrum. Se puede comparar el papel del Scrum Master al de un coach/mentor que acompañará al equipo hacía el éxito del proyecto. En nuestro proyecto el SM fue la persona que definia cuando iba a ser la siguiente reunion y guardar un registro de la misma.
+
+### Developer
+Developer o desarrollador es la persona experta en escribir código, es decir, idear el conjunto de secuencias de órdenes que llevan a un sistema informático a realizar una acción concreta. Los developers, junto con el Product Owner, fueron los que estimaron las tareas y sus criterios de aceptacion.
+
+### Definición de roles
+
+El rol del Product Owner (PO) lo ocupara Martín Gulla, mientras que el rol del Scrum Master (SM) lo ocupara Ignacio Vázquez. Por ultimo para el Development Team (DT),  estara conformado por todos los miembros del equipo: Juan Toledo, Joaquín Sommer, Martin Gulla e Ignacio Vázquez.
 
 El Product Owner fue el principal encargado de traducir los requerimientos a User Stories, priorizar estas stories, y de definir las tareas de cada integrante para el siguiente sprint.
 
