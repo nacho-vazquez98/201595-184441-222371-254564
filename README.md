@@ -650,3 +650,8 @@ De esta retro pudimos ver que sigue el problema de la organizacion.
 | Martin | Documentacion | 4 |
 | Martin | Reuniones | 4 |
 | Martin | Total | 10 |
+
+## Link a la demo
+
+Se realizo una demo del prototipo generado al finalizada la iteración 3.
+<a href="https://web.microsoftstream.com/video/0a814414-a764-478c-8843-d029d27ca0b8">https://web.microsoftstream.com/video/0a814414-a764-478c-8843-d029d27ca0b8</a>
