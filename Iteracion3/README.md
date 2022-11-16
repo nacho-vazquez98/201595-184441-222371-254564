@@ -141,5 +141,7 @@ Al igual que la iteración pasada, al finalizar las tareas, hicimos una retro de
 
 [Información de la retro](./Retrospective/RetroIteracion2ISA1.json)
 
-De esta retro pudimos ver que sigue el problema de la organizacion.
+Viendo la retrospective vemos que acarreamos problemas desde la primera iteración, por lo que deberíamos enfocarnos en lo planteado para optimizar el avance y por supuesto intentar completar los action items.
+
+El action item planteado en la iteración anterior, sobre realizar dailys por mensaje de texto en Whatsapp no fue cumplido debido a que realizamos las dailys por videollamada, en cambio el action item de estipular reuniones por google meet fue realizado exitosamente.
 
