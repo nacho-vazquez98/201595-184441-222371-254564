@@ -153,6 +153,14 @@ Las retro también las realizamos el ultimo día del sprint. Los viernes cada do
 ### Flujo de trabajo con GIT<a name="Flujo_de_trabajo_con_GIT"></a>
 
 Para el flujo de trabajo con git, decidimos utilizar GitHub Flow con el cual solo tendremos dos ramas, nuestra rama "feature" la cual tendra el nombre de la iteración en curso (iterración 1, iteración 2, etc.) y la rama principal "master". Esta ultima sera solo para mergear las distintas ramas de features al finalizar cada iteración.
+
+
+### Representacion de flujo de trabajo con git
+   
+![image](https://i.imgur.com/Kh3adNh.png)
+
+En git se puede ver que no existen las ramas mostradas en la representación debido a que usamos squash and merge que elimina la rama luego del merge.
+
 Mas alla que este flujo sea recomendado cuando las features son de duracion corta (diarias o incluso horas) y aca cada iteracion dura entre 2 a 3 semanas, consideramos que al no contar con un proyecto de código y solo ser proyecto de documentacion este tipo de flujo es el que deberiamos utilizar.
 
 ## Desarrollo de prototipo<a name="Desarrollo_de_prototipo"></a>
