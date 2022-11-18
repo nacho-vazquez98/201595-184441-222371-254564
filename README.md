@@ -17,60 +17,82 @@ Entrega como requisito para la materia de : Ingenieria de Software Agil 1
 
 ---
 # Indice
-- [Definición del marco de trabajo](#Definición_del_marco_de_trabajo)
-	- [Adaptaciones del marco SCRUM](#Adaptaciones_del_marco_SCRUM)
-	- [Definición de roles del equipo](#Definición_de_roles_del_equipo)
-	- [Politicas de trabajo](#Politicas_de_trabajo)
-		- [Definition of Ready](#Definition_of_Ready)
-		- [Definition of Done](#Definition_of_Done)
-			- [Definition of Done de los prototipos](#Definition_of_done_de_los_prototipos)
-	- [Repositorio del proyecto](#Repositorio_del_proyecto)
-		- [Flujo de trabajo con GIT](#Flujo_de_trabajo_con_GIT)
-	- [Desarrollo de prototipo](#Desarrollo_de_prototipo)
-- [Iteraciones](#Iteraciones)
-	- [Iteracion 1](#Iteracion_1)
-		- [Identificación del problema a resolver](#Identificación_del_problema_a_resolver)
-			- [Analisis del entorno](#Analisis_del_entorno)
-				- [Entendimiento del MVP](#Entendimiento_del_MVP)
-				- [Ingeniería inversa sobre aplicaciones conocidas similares](#Ingeniería_inversa_sobre_aplicaciones_conocidas_similares)
-				- [Identificación de interesados](#Identificación_de_interesados)
-				- [Estudio de competidores](#Estudio_de_competidores)
-			    - [Funcionalidades por interesado](#Funcionalidades_por_interesado)
-			- [Definición del problema](#Definición_del_problema)
-			    - [Story Map](#Story_Map)
-			    - [Product Backlog](#Product_Backlog)
-				- [Epicas](#Epicas)
-				- [Historias de usuarios](#Historias_de_usuarios)
-			    - [Criterios de aceptacion](#Criterios_de_aceptacion)
-			- [Dailys](#Dailys)
-			- [Sprint Planning](#Sprint_Planning)
-			- [Horas dedicadas](#Horas_dedicadas)
-			- [Retrospective](#Retrospective)
-	- [Iteracion 2](#Iteracion_2)
-		- [Objetivo de la iteración](#Objetivo-de-la-iteracion)
-		- [Realización de tareas del sprint](#Realización_de_tareas_del_sprint)
-		  - [Tareas realizadas](#Tareas_realizadas)
-		  - [Velocidad del equipo](#Velocidad_del_equipo)
-		- [Prototipo generado hasta el momento](#Prototipo_generado_hasta_el_momento)
-		- [Validación de usuarios](#Validacion_de_usuarios)
-		- [Registro Daily](#Registro_Daily)
-		- [Retrospective](#Retrospective)
-	- [Iteracion 3](#Iteracion_3)
-		- [Definición de los eventos Scrum](#Eventos-Scrum_I3)
-		  - [Dailys](#Dailys_I3)
-		  - [Planning/Grooming](#Planning_Grooming_I3)
-		  - [Retro](#Retro_I3)
-		- [Objetivo de la iteración](#Objetivo-de-la-iteracion_I3)
-		- [Backlog del sprint](#Backlog_I3)
-		- [Velocidad del equipo](#Velocidad_del_equipo_I3)
-		- [Realización de tareas del sprint](#Realización_de_tareas_del_sprint_I3)
-		  - [Tareas realizadas](#Tareas_realizadas_I3)
-		  - [Prototipo final](#Prototipo_fina_I3)
-		  - [Validación de usuarios](#Validacion_de_usuarios_I3)
-		- [Transcripción de entrevista para validación](#Transcripcion_Entrevista_I3)
-		- [Discusión de feedback](#Discucion_feedback_I3)
-		- [Registro Daily](#Registro_Daily_I3)
-		- [Retrospective](#Retrospective_I3)
+- [Obligatorio de Ingeniería de Software Agil 1](#obligatorio-de-ingeniería-de-software-agil-1)
+- [Indice](#indice)
+- [Definición del marco de trabajo<a name="Definición_del_marco_de_trabajo"></a>](#definición-del-marco-de-trabajo)
+	- [Adaptaciones del marco SCRUM<a name="Adaptaciones_del_marco_SCRUM"></a>](#adaptaciones-del-marco-scrum)
+	- [Definición de roles del equipo<a name="Definición_de_roles_del_equipo"></a>](#definición-de-roles-del-equipo)
+		- [Product owner](#product-owner)
+		- [Scrum master](#scrum-master)
+		- [Developer](#developer)
+		- [Definición de roles](#definición-de-roles)
+	- [Politicas de trabajo<a name="Politicas_de_trabajo"></a>](#politicas-de-trabajo)
+		- [Definición de los eventos Scrum<a name="Eventos-Scrum_I3"></a>](#definición-de-los-eventos-scrum)
+			- [Dailys<a name="Dailys_I3"></a>](#dailys)
+			- [Planning/Grooming<a name="Planning_Grooming_I3"></a>](#planninggrooming)
+			- [Retro<a name="Retro_I3"></a>](#retro)
+		- [Definition of Ready<a name="Definition_of_Ready"></a>](#definition-of-ready)
+		- [Definition of Done<a name="Definition_of_Done"></a>](#definition-of-done)
+			- [Definition of Done de los prototipos<a name="Definition_of_done_de_los_prototipos"></a>](#definition-of-done-de-los-prototipos)
+	- [Repositorio del proyecto<a name="Repositorio_del_proyecto"></a>](#repositorio-del-proyecto)
+		- [Flujo de trabajo con GIT<a name="Flujo_de_trabajo_con_GIT"></a>](#flujo-de-trabajo-con-git)
+		- [Representacion de flujo de trabajo con git](#representacion-de-flujo-de-trabajo-con-git)
+	- [Desarrollo de prototipo<a name="Desarrollo_de_prototipo"></a>](#desarrollo-de-prototipo)
+- [Iteraciones<a name="Iteraciones"></a>](#iteraciones)
+	- [Iteracion 1<a name="Iteracion_1"></a>](#iteracion-1)
+		- [Objetivos de la iteracion<a name="Objetivos_de_la_iteracion"></a>](#objetivos-de-la-iteracion)
+		- [Identificación del problema a resolver<a name="Identificación_del_problema_a_resolver"></a>](#identificación-del-problema-a-resolver)
+			- [Analisis del entorno<a name="Analisis_del_entorno"></a>](#analisis-del-entorno)
+				- [Entendimiento del MVP<a name="Entendimiento_del_MVP"></a>](#entendimiento-del-mvp)
+				- [Ingeniería inversa sobre aplicaciones conocidas similares<a name="Ingeniería_inversa_sobre_aplicaciones_conocidas_similares"></a>](#ingeniería-inversa-sobre-aplicaciones-conocidas-similares)
+				- [Identificación de interesados<a name="Identificación_de_interesados"></a>](#identificación-de-interesados)
+				- [Estudio de competidores<a name="Estudio_de_competidores"></a>](#estudio-de-competidores)
+			- [Funcionalidades por interesado<a name="Funcionalidades_por_interesado"></a>](#funcionalidades-por-interesado)
+		- [Definición del problema<a name="Definición_del_problema"></a>](#definición-del-problema)
+			- [Story Map<a name="Story_Map"></a>](#story-map)
+			- [Product Backlog<a name="Product_Backlog"></a>](#product-backlog)
+				- [Epicas<a name="Epicas"></a>](#epicas)
+				- [Historias de usuarios<a name="Historias_de_usuarios"></a>](#historias-de-usuarios)
+				- [Criterios de aceptacion<a name="Criterios_de_aceptacion"></a>](#criterios-de-aceptacion)
+				- [Priorizacion de las tareas<a name="Priorizacion_de_las_tareas"></a>](#priorizacion-de-las-tareas)
+		- [Dailys<a name="Dailys"></a>](#dailys-1)
+			- [Primera Daily 23/09/2022<><a name="Primera_Daily"></a>](#primera-daily-23092022)
+			- [Segunda Daily 30/09/2022<a name="Segunda_Daily"></a>](#segunda-daily-30092022)
+			- [Tercera Daily 02/10/2022<a name="Tercera_Daily"></a>](#tercera-daily-02102022)
+			- [Cuarta Daily 07/10/22<a name="Cuarta_Daily"></a>](#cuarta-daily-071022)
+		- [Sprint Planning<a name="Sprint_Planning"></a>](#sprint-planning)
+		- [Horas dedicadas<a name="Horas_dedicadas"></a>](#horas-dedicadas)
+		- [Retrospective<a name="Retrospective"></a>](#retrospective)
+			- [Reflexion y conclusiones](#reflexion-y-conclusiones)
+		- [Valor agregado a la aplicacion](#valor-agregado-a-la-aplicacion)
+		- [Cantidad de horas dedicadas a la iteracion por participante <a name="Cantidad_de_horas_dedicadas"></a>](#cantidad-de-horas-dedicadas-a-la-iteracion-por-participante-)
+- [Iteracion 2<a name="Iteracion_2"></a>](#iteracion-2)
+		- [Objetivo de la iteración<a name="Objetivo-de-la-iteracion"></a>](#objetivo-de-la-iteración)
+		- [Realización de tareas del sprint<a name="Realización_de_tareas_del_sprint"></a>](#realización-de-tareas-del-sprint)
+			- [Tareas realizadas<a name="Tareas_realizadas"></a>](#tareas-realizadas)
+		- [Velocidad del equipo<a name="Velocidad_del_equipo"></a>](#velocidad-del-equipo)
+		- [Prototipo generado hasta el momento<a name="Prototipo_generado_hasta_el_momento"></a>](#prototipo-generado-hasta-el-momento)
+		- [Validación de usuarios<a name="Validacion_de_usuarios"></a>](#validación-de-usuarios)
+		- [Registro Daily<a name="Registro_Daily"></a>](#registro-daily)
+		- [Retrospective<a name="Retrospective"></a>](#retrospective-1)
+		- [Horas dedicadas <a name="Horas_dedicadas"></a>](#horas-dedicadas-)
+	- [Iteracion 3<a name="Iteracion_3"></a>](#iteracion-3)
+		- [Objetivo de la iteración<a name="Objetivo-de-la-iteracion_I3"></a>](#objetivo-de-la-iteración-1)
+		- [Backlog del sprint<a name="Backlog_I3"></a>](#backlog-del-sprint)
+		- [Velocidad del equipo<a name="Velocidad_del_equipo_I3"></a>](#velocidad-del-equipo-1)
+		- [Realización de tareas del sprint<a name="Realización_de_tareas_del_sprint_I3"></a>](#realización-de-tareas-del-sprint-1)
+			- [Tareas realizadas<a name="Tareas_realizadas_I3"></a>](#tareas-realizadas-1)
+			- [Prototipo final<a name="Prototipo_fina_I3"></a>](#prototipo-final)
+			- [Validación de usuarios<a name="Validacion_de_usuarios_I3"></a>](#validación-de-usuarios-1)
+		- [Transcripción de entrevista para validación<a name="Transcripcion_Entrevista_I3"></a>](#transcripción-de-entrevista-para-validación)
+		- [Discusión de feedback<a name="Discucion_feedback_I3"></a>](#discusión-de-feedback)
+		- [Registro Daily<a name="Registro_Daily_I3"></a>](#registro-daily-1)
+		- [Retrospective<a name="Retrospective_I3"></a>](#retrospective-2)
+		- [Horas dedicadas <a name="Horas_dedicadas_I3"></a>](#horas-dedicadas--1)
+- [Iteracion 4<a name="Iteracion_4"></a>](#iteracion-4)
+	- [Burndown Chart](#burndown-chart)
+	- [Reflexion de aprendizajes](#reflexion-de-aprendizajes)
+	- [Link a la demo](#link-a-la-demo)
  
 ---
       
@@ -83,8 +105,19 @@ Para esta iteracion al no ser un proyecto tan demandante, las dailys las haremos
 
 ## Definición de roles del equipo<a name="Definición_de_roles_del_equipo"></a>
 
-Para la definición de roles del equipo, nos dividimos de la siguiente manera:
-El rol del Product Owner (PO) lo ocupara Martín Gulla, mientras que el rol del Scrum Master (SM) lo ocupara Ignacio Vázquez. Por ultimo para el Development Team (DT), al se un equipo pequeño, este estara conformado por todos los miembros del equipo: Juan Toledo, Joaquín Sommer, Martin Gulla e Ignacio Vázquez.
+### Product owner
+Quien tiene este rol procura que el equipo Scrum aporte valor al negocio en cuestión. Él representa a los stakeholders o a las partes interesadas.
+El Product Owner en este proyecto fue el principal encargado de traducir los requerimientos a User Stories, priorizar estas stories, y de definir las tareas de cada integrante para el siguiente sprint.
+
+### Scrum master
+Es el responsable de que se sigan las prácticas y valores descritos en el modelo Scrum. Se puede comparar el papel del Scrum Master al de un coach/mentor que acompañará al equipo hacía el éxito del proyecto. En nuestro proyecto el SM fue la persona que definia cuando iba a ser la siguiente reunion y guardar un registro de la misma.
+
+### Developer
+Developer o desarrollador es la persona experta en escribir código, es decir, idear el conjunto de secuencias de órdenes que llevan a un sistema informático a realizar una acción concreta. Los developers, junto con el Product Owner, fueron los que estimaron las tareas y sus criterios de aceptacion.
+
+### Definición de roles
+
+El rol del Product Owner (PO) lo ocupara Martín Gulla, mientras que el rol del Scrum Master (SM) lo ocupara Ignacio Vázquez. Por ultimo para el Development Team (DT),  estara conformado por todos los miembros del equipo: Juan Toledo, Joaquín Sommer, Martin Gulla e Ignacio Vázquez.
 
 El Product Owner fue el principal encargado de traducir los requerimientos a User Stories, priorizar estas stories, y de definir las tareas de cada integrante para el siguiente sprint.
 
@@ -93,6 +126,20 @@ El Scrum master fue la persona que definia cuando iba a ser la siguiente reunion
 Los developers, junto con el Product Owner, fueron los que estimaron las tareas y sus criterios de aceptacion.
 
 ## Politicas de trabajo<a name="Politicas_de_trabajo"></a>
+
+### Definición de los eventos Scrum<a name="Eventos-Scrum_I3"></a>
+
+#### Dailys<a name="Dailys_I3"></a>
+
+Decidimos realizar dailys cada 4 días porque la profundidad del proyecto no era suficiente para realizar dailys diarias. De esta manera teníamos tiempo para ir realizando los tickets que cada uno tenía asignado. En nuestras dailys cada uno comenta en que tickets estuvo trabajando los días anteriores y en que va a trabajar hasta la próxima daily. También comentamos si estamos bloqueados por algo.
+
+#### Planning/Grooming<a name="Planning_Grooming_I3"></a>
+
+Las planning las realizamos el ultimo día del sprint. Los viernes cada dos semanas. En estas reuniones estimamos y priorizamos las user stories que vamos a realizar en el próximo sprint. Al principio también asignábamos las user stories pero después nos dimos cuenta que no era correcto asignarlas en la planning y era mejor que cada uno se asignara a medida que iba haciendo.  
+
+#### Retro<a name="Retro_I3"></a>
+
+Las retro también las realizamos el ultimo día del sprint. Los viernes cada dos semanas. En las retro nos juntamos todo el equipo y básicamente mencionamos las cosas que funcionaron bien, las cosas que podríamos mejorar y que estuvimos haciendo mal. Luego de analizar las anotaciones anotamos las acciones que debemos hacer para mejorarlas intentando que estas sean medibles.
 
 ### Definition of Ready<a name="Definition_of_Ready"></a>
 
@@ -125,6 +172,14 @@ Los developers, junto con el Product Owner, fueron los que estimaron las tareas 
 ### Flujo de trabajo con GIT<a name="Flujo_de_trabajo_con_GIT"></a>
 
 Para el flujo de trabajo con git, decidimos utilizar GitHub Flow con el cual solo tendremos dos ramas, nuestra rama "feature" la cual tendra el nombre de la iteración en curso (iterración 1, iteración 2, etc.) y la rama principal "master". Esta ultima sera solo para mergear las distintas ramas de features al finalizar cada iteración.
+
+
+### Representacion de flujo de trabajo con git
+   
+![image](https://i.imgur.com/Kh3adNh.png)
+
+En git se puede ver que no existen las ramas mostradas en la representación debido a que usamos squash and merge que elimina la rama luego del merge.
+
 Mas alla que este flujo sea recomendado cuando las features son de duracion corta (diarias o incluso horas) y aca cada iteracion dura entre 2 a 3 semanas, consideramos que al no contar con un proyecto de código y solo ser proyecto de documentacion este tipo de flujo es el que deberiamos utilizar.
 
 ## Desarrollo de prototipo<a name="Desarrollo_de_prototipo"></a>
@@ -133,6 +188,9 @@ El prototipo será desarrollado en la herramienta de prototipado de alta fidelid
 debido a que el equipo posee conocimientos en esta herramienta, y para los que no 
 poseen conocimientos, es facil de aprender y de utilizar.
 
+Link al <a href="https://www.figma.com/proto/n5qQQEU2xJSCWDSANcSIBM/Untitled?node-id=40%3A8&scaling=scale-down&page-id=0%3A1&starting-point-node-id=40%3A8">Prototipo</a>
+
+https://www.figma.com/proto/n5qQQEU2xJSCWDSANcSIBM/Untitled?node-id=40%3A8&scaling=scale-down&page-id=0%3A1&starting-point-node-id=40%3A8
 
 # Iteraciones<a name="Iteraciones"></a>
 
@@ -222,8 +280,21 @@ Por otra parte, si el día de mañana nuestra app se ampliara al mercado de los 
 
 - Usuario final
 
-Todas las funcionales de la aplicación son pensadas para el usuario final,
-el cual es el cliente de la aplicación, especificado en la parte de identificación de interesados.
+Todas las funcionales de la aplicación son pensadas para el usuario final, el cual es el cliente de la aplicación, especificado en la parte de identificación de interesados.
+
+Dentro de los usuarios finales, estos se pueden subdividir en: conductores, pasajeros e inspectores.
+
+- Conductores
+
+Los conductores son los encargados de hacer que el vehiculo este en hora en cada parada, y debe respetar el recorrido preestablecido.
+
+- Pasajeros
+
+Los pasajeros son los usuarios principales de la aplicacion, son los que van a utilizar la aplicacion para saber en que parada esta el omnibus, y en que tiempo llegara a la parada, el recorrido de los mismos, etc.
+
+- Inspectores
+
+Los inspectores son los encargados de verificar que los conductores cumplan con el recorrido preestablecido, y que los vehiculos esten en hora en cada parada.
 
 
 - Dueño del producto
@@ -231,6 +302,13 @@ el cual es el cliente de la aplicación, especificado en la parte de identificac
 La funcionalidad de STM al ser una funcionalidad agregada a lo que fue solicitado, 
 se considera como una funcionalidad de interés para el dueño del producto.
 
+| Funcionalidad | Conductor | Pasajero | Inspector | Dueño del producto |
+| --- | --- | --- | --- | --- |
+| STM | - | X | - | X |
+| Usuario | - | X | - | - |
+| Lineas de omnibus | X | X | X | - |
+| Viajes | X | X | X | - |
+| Notificaciones | - | X | - | - |
 
 ### Definición del problema<a name="Definición_del_problema"></a>
 
@@ -269,8 +347,8 @@ Aqui listamos todas las user stories que creamos (para ver la dependencia epica-
 
 ##### Criterios de aceptacion<a name="Criterios_de_aceptacion"></a>
 Cada user story tiene su propio criterio de aceptacion, dependiendo de lo que la tarea conlleve. A continuacion se muestran dos ejemplos de las stories y sus criterios de aceptacion
-![image](https://i.imgur.com/J2WmKsY.jpeg)
-![image](https://i.imgur.com/csFPL2T.jpeg)
+![image](https://i.imgur.com/baDsFvN.jpg)
+![image](https://i.imgur.com/7n465hQ.jpg)
 
 ##### Priorizacion de las tareas<a name="Priorizacion_de_las_tareas"></a>
 
@@ -315,6 +393,26 @@ Para solucionar uno de estos problemas, lo que decidimos hacer es programar las 
 
 Como se menciono anteriormente, el equipo decidio agregar una funcionalidad extra a las pedidas en la letra, esta siendo todo lo vinculado a la tarjeta STM. Esta idea surgio de la aplicacion competidora Como Ir, la cual permite ver la cantidad de boletos que tiene la tarjeta de alguien. Nosotros decidimos ir un paso mas y permitirle al usuario tambien poder recargar boletos por medio de nuestra aplicacion.
 
+### Cantidad de horas dedicadas a la iteracion por participante <a name="Cantidad_de_horas_dedicadas"></a>
+
+| Nombre | Actividad | Horas |
+| --- | --- | --- |
+| Ignacio | Ingenieria inversa | 1 |
+| Ignacio | Documentacion | 2 |
+| Ignacio | Reuniones | 4 |
+| Ignacio | Total | 7 |
+| Juan | Documentacion | 4 |
+| Juan | Reuniones | 4 |
+| Juan | Total | 8 |
+| Joaquin | Ingenieria inversa | 1 |
+| Joaquin | Documentacion | 3 |
+| Joaquin | Reuniones | 4 |
+| Joaquin | Total | 8 |
+| Martin | Ingenieria inversa | 1 |
+| Martin | Documentacion | 2 |
+| Martin | Reuniones | 4 |
+| Martin | Total | 7 |
+
 # Iteracion 2<a name="Iteracion_2"></a>
 ### Objetivo de la iteración<a name="Objetivo-de-la-iteracion"></a>
 
@@ -342,13 +440,47 @@ La velocidad del equipo (en base a story points) fue de 38, en la imagen aparece
 
 ### Prototipo generado hasta el momento<a name="Prototipo_generado_hasta_el_momento"></a>
 
-A partir de las tareas, llegamos a el siguiente prototipo
+A partir de las tareas, llegamos a el siguiente prototipo (fotos)
 
-[Prototipo V1](./Prototipos/V1.pdf)
+![image](https://i.imgur.com/ulr2mqq.jpg)
+![image](https://i.imgur.com/A5pqrab.jpg)
+![image](https://i.imgur.com/P706NJr.jpg)
+![image](https://i.imgur.com/I3szBVo.jpg)
+![image](https://i.imgur.com/vzknxEV.jpg)
+![image](https://i.imgur.com/rorzg7a.jpg)
+![image](https://i.imgur.com/RsprCYz.jpg)
+![image](https://i.imgur.com/WI1YqSo.jpg)
+![image](https://i.imgur.com/8yQdWXT.jpg)
+![image](https://i.imgur.com/Gmh5K3e.jpg)
+![image](https://i.imgur.com/Ar5w66z.jpg)
+![image](https://i.imgur.com/t1b0ahB.jpg)
+![image](https://i.imgur.com/1Eomx91.jpg)
+![image](https://i.imgur.com/QlEyq2V.jpg)
+![image](https://i.imgur.com/gxYsrrT.jpg)
+![image](https://i.imgur.com/yo47XKs.jpg)
+![image](https://i.imgur.com/ieu2be0.jpg)
+![image](https://i.imgur.com/3knzwoN.jpg)
 
 Luego de validar con los usuarios, nos dimos cuenta que no era muy intuitivo llegar a la información de una linea, esto nos llevo a cambiar ligeramente el diseño, y este quedo de la siguiente forma
 
-[Prototipo V2](./Prototipos/V2.pdf)
+![image](https://i.imgur.com/1NyFECy.jpg)
+![image](https://i.imgur.com/Q0jaeTf.jpg)
+![image](https://i.imgur.com/Hw2wJwB.jpg)
+![image](https://i.imgur.com/thDUSUs.jpg)
+![image](https://i.imgur.com/8Aw2stE.jpg)
+![image](https://i.imgur.com/79mQXKA.jpg)
+![image](https://i.imgur.com/mV005BR.jpg)
+![image](https://i.imgur.com/wWJxJeq.jpg)
+![image](https://i.imgur.com/Z5xlPkI.jpg)
+![image](https://i.imgur.com/bD4hOaM.jpg)
+![image](https://i.imgur.com/k48MlsJ.jpg)
+![image](https://i.imgur.com/qR1oV9z.jpg)
+![image](https://i.imgur.com/EYQNlei.jpg)
+![image](https://i.imgur.com/c9iiYdz.jpg)
+![image](https://i.imgur.com/4q9H4bs.jpg)
+![image](https://i.imgur.com/GOUesom.jpg)
+![image](https://i.imgur.com/aOUZwkj.jpg)
+![image](https://i.imgur.com/RVvt1GT.jpg)
 
 Los cambios son minimos (agregar un icono de información en la sección de lineas), pero creemos que va a ayudar a que los usuarios encuentren esta funcionalidad. Esto se validara en la siguiente iteración.
 
@@ -356,8 +488,27 @@ Los cambios son minimos (agregar un icono de información en la sección de line
 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSdz4v2TZwRcXztKyiRj-5eYdIQNu0ji19rUhZ4PKewrkyEjaA/viewform">Encuesta de validacion</a>
 
-[Resultados de Encuesta de validacion](./Encuestas/EncuestaValidacionDeUsuarios.xlsx)
+| ¿En una escala del 1 al 5 qué te pareció el diseño de la aplicación en general? | ¿Qué cambios harías para mejorarlo? | ¿Le pareció una aplicación sencilla de usar? | Si respondió que no o depende de la sección, ¿Qué fue lo que lo llevo a esa respuesta? | ¿Te gustaría que tuviera alguna otra funcionalidad? | En caso de haber respondido que si en la pregunta anterior, ¿Qué funcionalidad agregaría? | ¿Le seria útil tener los datos de su tarjeta STM (Saldo actual, vencimiento de boletos, etc.) y poder recargar el saldo de la misma? |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 5 | - | Si | - | Si | Calificar chófer y guarda de cada línea. Y que cada omnibus tenga su número de referencia para calificar | - |
+| 3 | Cuando intente filtrar por linea no funciono bien el prototipo y no entendi que hacer | Si | - | No | - | - |
+| 5 | Ninguno | Si | - | No | No | - |
+| 4 | Retoques a la interfaz gráfica, sobre todo en "lineas cercanas" los rectángulos azules de las respectivas lineas. | Si | - | Si | Sería util que cuando buscás lineas, te muestre los horarios teoricos de cuando pasa cada bondi | - |
+| 3 | Diseño de la información de las lineas | Si | - | Si | Poder ver el trayecto de la linea | - |
+| 4 | - | Si | - | No | - | - |
+| 5 | ningun cambio | Si | - | No | - | - |
+| 4 | - | Si | - | No | - | Si |
+| 5 | Ninguno | Si | - | Si | - | Si |
+| 4 | - | Si | - | Si | Poder guardar los destinos | Si |
+| 5 | - | Si | - | No | - | Si |
+| 5 | - | Si | - | No | - | No |
+| 3 | Se podria mejorar el diseño | Si | - | No | - | Si |
 
+Analizando los resultados de la encuesta, podemos ver que la mayoría de los usuarios respondieron que le pareció una aplicación sencilla de usar, y que no le gustaría que tuviera alguna otra funcionalidad. Esto nos lleva a pensar que la aplicación cumple con su objetivo, que es ayudar a los usuarios a encontrar la información que necesitan de una forma sencilla y rápida.
+
+Sin embargo, un punto que surgio un par de veces fue el tema del diseño de la aplicacion en si, esto fue algo que anticipamos de antemano ya que ninguno de los integrantes del equipo es diseñador, por lo que no nos dimos cuenta de que el diseño no era muy atractivo. Esto nos llevo a pensar que es necesario que el equipo de diseño de la aplicación se involucre en el proyecto, ya que ellos son los que mejor saben como hacer que la aplicación sea atractiva y facil de usar.
+
+En cuanto a la funcionalidad que le agrega valor al producto, la terjeta STM, la mayoría de los usuarios respondieron que si le seria util, por lo que entendemos que es una buena funcionalidad extra que se puede implementar.
 
 ### Registro Daily<a name="Registro_Daily"></a>
 ![image](https://i.imgur.com/kbVxsl4.png)
@@ -377,20 +528,33 @@ Al igual que la iteración pasada, al finalizar las tareas, hicimos una retro de
 
 De esta retro pudimos ver que sigue el problema de la organizacion, y nos planteamos nuevas acciones a tomar.
 
+### Horas dedicadas <a name="Horas_dedicadas"></a>
+
+| Nombre | Actividad | Horas |
+| --- | --- | --- |
+| Ignacio | Aprendizaje de Figma | 2 |
+| Ignacio | Prototipado | 2 |
+| Ignacio | Documentacion | 4 |
+| Ignacio | Reuniones | 4 |
+| Ignacio | Total | 12 |
+| Juan | Aprendizaje de Figma | 1 |
+| Juan | Prototipado | 2 |
+| Juan | Documentacion | 4 |
+| Juan | Reuniones | 4 |
+| Juan | Total | 11 |
+| Joaquin | Aprendizaje de Figma | 2 |
+| Joaquin | Prototipado | 2 |
+| Joaquin | Documentacion | 4 |
+| Joaquin | Reuniones | 4 |
+| Joaquin | Total | 12 |
+| Martin | Aprendizaje de Figma | 1 |
+| Martin | Prototipado | 2 |
+| Martin | Documentacion | 4 |
+| Martin | Reuniones | 4 |
+| Martin | Total | 11 |
+
+
 ## Iteracion 3<a name="Iteracion_3"></a>
-### Definición de los eventos Scrum<a name="Eventos-Scrum_I3"></a>
-
-#### Dailys<a name="Dailys_I3"></a>
-
-Decidimos realizar dailys cada 4 días porque la profundidad del proyecto no era suficiente para realizar dailys diarias. De esta manera teníamos tiempo para ir realizando los tickets que cada uno tenía asignado. En nuestras dailys cada uno comenta en que tickets estuvo trabajando los días anteriores y en que va a trabajar hasta la próxima daily. También comentamos si estamos bloqueados por algo.
-
-#### Planning/Grooming<a name="Planning_Grooming_I3"></a>
-
-Las planning las realizamos el ultimo día del sprint. Los viernes cada dos semanas. En estas reuniones estimamos y priorizamos las user stories que vamos a realizar en el próximo sprint. Al principio también asignábamos las user stories pero después nos dimos cuenta que no era correcto asignarlas en la planning y era mejor que cada uno se asignara a medida que iba haciendo.  
-
-#### Retro<a name="Retro_I3"></a>
-
-Las retro también las realizamos el ultimo día del sprint. Los viernes cada dos semanas. En las retro nos juntamos todo el equipo y básicamente mencionamos las cosas que funcionaron bien, las cosas que podríamos mejorar y que estuvimos haciendo mal. Luego de analizar las anotaciones anotamos las acciones que debemos hacer para mejorarlas intentando que estas sean medibles.
 
 ### Objetivo de la iteración<a name="Objetivo-de-la-iteracion_I3"></a>
 
@@ -422,9 +586,38 @@ Las tareas realizadas en este sprint fueron las siguientes
 
 #### Prototipo final<a name="Prototipo_fina_I3"></a>
 
-Luego de hacer todas las user stories y validar el prototipo con los usuarios llegamos al prototipo final que se encuentra en el siguiente link
+Luego de hacer todas las user stories y validar el prototipo con los usuarios llegamos al prototipo final (link al prototipo y fotos)
 
-[Prototipo V1](./Prototipos/V3.pdf)
+<a href="https://www.figma.com/proto/n5qQQEU2xJSCWDSANcSIBM/Untitled?node-id=40%3A8&scaling=scale-down&page-id=0%3A1&starting-point-node-id=40%3A8">https://www.figma.com/proto/n5qQQEU2xJSCWDSANcSIBM/Untitled?node-id=40%3A8&scaling=scale-down&page-id=0%3A1&starting-point-node-id=40%3A8</a>
+
+![image](https://i.imgur.com/VmbntNz.png)
+![image](https://i.imgur.com/aWfPFm0.png)
+![image](https://i.imgur.com/CjPVS3O.png)
+![image](https://i.imgur.com/6KpNJKs.png)
+![image](https://i.imgur.com/wbyjgvS.png)
+![image](https://i.imgur.com/KyUK2Vz.png)
+![image](https://i.imgur.com/tdzCRgu.png)
+![image](https://i.imgur.com/1OvFo24.png)
+![image](https://i.imgur.com/bJgO6UF.png)
+![image](https://i.imgur.com/seCnGHk.png)
+![image](https://i.imgur.com/5e6tluP.png)
+![image](https://i.imgur.com/70b8ISw.png)
+![image](https://i.imgur.com/Zs0hvfe.png)
+![image](https://i.imgur.com/aQl8thp.png)
+![image](https://i.imgur.com/gHXRRsK.png)
+![image](https://i.imgur.com/M3tpxuV.png)
+![image](https://i.imgur.com/xO1uiI3.png)
+![image](https://i.imgur.com/JHc8TzW.png)
+![image](https://i.imgur.com/1P3Mlqg.png)
+![image](https://i.imgur.com/M0IdfJA.png)
+![image](https://i.imgur.com/HAe4v4M.png)
+![image](https://i.imgur.com/gKBUuuS.png)
+![image](https://i.imgur.com/EMZ6V6R.png)
+![image](https://i.imgur.com/iR1lS4k.png)
+![image](https://i.imgur.com/oAKvgKQ.png)
+![image](https://i.imgur.com/DX40pcD.png)
+![image](https://i.imgur.com/VYnOKGQ.png)
+![image](https://i.imgur.com/s6HNSwo.png)
 
 #### Validación de usuarios<a name="Validacion_de_usuarios_I3"></a>
 
@@ -493,3 +686,50 @@ Al igual que la iteración pasada, al finalizar las tareas, hicimos una retro de
 [Información de la retro](./Retrospective/RetroIteracion2ISA1.json)
 
 De esta retro pudimos ver que sigue el problema de la organizacion.
+
+### Horas dedicadas <a name="Horas_dedicadas_I3"></a>
+
+| Nombre | Actividad | Horas |
+| --- | --- | --- |
+| Ignacio | Prototipado | 2 |
+| Ignacio | Documentacion | 4 |
+| Ignacio | Reuniones | 4 |
+| Ignacio | Total | 10 |
+| Juan | Prototipado | 2 |
+| Juan | Documentacion | 4 |
+| Juan | Reuniones | 4 |
+| Juan | Total | 10 |
+| Joaquin | Prototipado | 2 |
+| Joaquin | Documentacion | 4 |
+| Joaquin | Reuniones | 4 |
+| Joaquin | Total | 10 |
+| Martin | Prototipado | 2 |
+| Martin | Documentacion | 4 |
+| Martin | Reuniones | 4 |
+| Martin | Total | 10 |
+
+
+# Iteracion 4<a name="Iteracion_4"></a>
+
+## Burndown Chart 
+
+![image](https://i.imgur.com/iiWlPHS.png)
+
+Como se puede observar burndownchart no tiene los datos correctos, ya que a la hora de marcar como completadas la tareas realizadas la marcamos como "Resolved" y no como "Colsed" lo que causo que la grafica tenga grandes mesetas y bajadas de golpe, ya que cuando se les puso closed fue a todas juntas el mismo día causando las abruptas bajadas que tiene. El Azure para hacer estos calculos se fija en las tareas que estan "Closed" y esto no lo sabiamos al momento de ir cerrando las tareas. 
+
+## Reflexion de aprendizajes
+
+Una de las cosas que aprendimos fue a trabajar en equipo, ya que nunca habiamos trabajado en equipo de esta manera para hacer un obligatorio, y nos parecio muy interesante y nos sirvio para aprender a trabajar en equipo y a comunicarnos mejor. Usualmente los obligatorios son de dos o tres personas, y nunca habiamos trabajado en equipo de 4 personas, por lo que fue una experiencia muy buena porque organizarnos y comunicarnos fue algo que nos costo bastante, pero en cada iteracion fuimos mejorando y aprendiendo lo que nos funcionaba y lo que no. En los equipos de trabajo que tengamos en el futuro, nos va a servir mucho lo que aprendimos en este proyecto porque usualmente son equipos mas grandes donde hay que comunicarse y organizarse bien.
+
+Quiza lo mas importante fue la gran experiencia de utilizar una metodologia agil para hacer el proyecto. Aprendimos a utilizarla y a utilizar las herramientas que nos brinda. Tambien aprendimos a hacer dailys, que nos permitieron comunicarnos y saber que estabamos haciendo cada uno, y que nos permitio saber que estabamos haciendo bien y que estabamos haciendo mal. Tambien aprendimos a hacer retros, que nos permitieron mejorar en cada iteracion y a mejorar la forma en la que trabajabamos. Hoy en dia casi todos los proyectos se hacen con metodologias agiles, por lo que es vital tener buenos conocimientos de todas las reglas y etapas que estas metodologias tienen. Esto nos va a permitir manejarnos bien en un equipo de trabajo. Todavia hay cosas que podemos mejorar, como por ejemplo hacer mejores user stories, pero por lo menos sabemos que tenemos que mejorar para poder hacerlo mejor en el futuro.
+
+Tambien nos llevamos muchismos conociemientos adquiridos de distintas herramientas que usamos en el proyecto. Por ejemplo, aprendimos a usar Azure DevOps, que nos permitio tener un seguimiento de las tareas que teniamos que hacer y de las que ya estaban hechas. Tambien aprendimos a usar Figma, que nos permitio hacer el prototipo de la aplicacion y tambien la existencia de paginas como Metroretro que nos permitio hacer las retros de las iteraciones. Todas estas herramientas son de las mas utilizadas en el mundo laboral, por lo que es muy importante saber que existen y poder manejarlas a cierto nivel.
+
+La idea de hacer una aplicacion sobre el trasporte publico en si no es nueva pero nos parecio muy facil para aplicar lo que aprendimos en la materia. Al no ser una idea nueva nos costo poder elegir que funcionalidades agregarle para lograr darle ese toque de innovacion que se pedia en el proyecto. Justamente pensando esto fue que nos dimos cuenta que el hacer un proyecto no es solo hacer lo que te piden sino que tambien hay que agregarle esa cosa distinta para sobresalir. Esto nos parecio muy interesante y nos sirvio para aprender a pensar de una manera distinta y tener otra cabeza cuando el dia de mañana tengamos que hacer un proyecto para un cliente.
+
+## Link a la demo
+
+Se realizo una demo del prototipo generado al finalizada la iteración 3.
+<a href="https://web.microsoftstream.com/video/0a814414-a764-478c-8843-d029d27ca0b8">https://web.microsoftstream.com/video/0a814414-a764-478c-8843-d029d27ca0b8</a>
+
+

@@ -2,6 +2,8 @@
 
 # Índice
 
+- [Definición del marco de trabajo](#Definición_del_marco_de_trabajo)
+	- [Definición de roles del equipo](#Definición_de_roles_del_equipo)
 - [Identificación del problema a resolver](#Identificación_del_problema_a_resolver)
     - [Analisis del entorno](#Analisis_del_entorno)
         - [Entendimiento del MVP](#Entendimiento_del_MVP)
@@ -27,6 +29,24 @@
 - Creación del product backlog a partir de los requerimientos.
 - Estudiar posibles competidores.
 - Organizacion del equipo en roles
+
+# Definición del marco de trabajo<a name="Definición_del_marco_de_trabajo"></a>
+
+## Definición de roles del equipo<a name="Definición_de_roles_del_equipo"></a>
+
+### Product owner
+Quien tiene este rol procura que el equipo Scrum aporte valor al negocio en cuestión. Él representa a los stakeholders o a las partes interesadas.
+El Product Owner en este proyecto fue el principal encargado de traducir los requerimientos a User Stories, priorizar estas stories, y de definir las tareas de cada integrante para el siguiente sprint.
+
+### Scrum master
+Es el responsable de que se sigan las prácticas y valores descritos en el modelo Scrum. Se puede comparar el papel del Scrum Master al de un coach/mentor que acompañará al equipo hacía el éxito del proyecto. En nuestro proyecto el SM fue la persona que definia cuando iba a ser la siguiente reunion y guardar un registro de la misma.
+
+### Developer
+Developer o desarrollador es la persona experta en escribir código, es decir, idear el conjunto de secuencias de órdenes que llevan a un sistema informático a realizar una acción concreta. Los developers, junto con el Product Owner, fueron los que estimaron las tareas y sus criterios de aceptacion.
+
+### Definición de roles
+
+El rol del Product Owner (PO) lo ocupara Martín Gulla, mientras que el rol del Scrum Master (SM) lo ocupara Ignacio Vázquez. Por ultimo para el Development Team (DT),  estara conformado por todos los miembros del equipo: Juan Toledo, Joaquín Sommer, Martin Gulla e Ignacio Vázquez.
 
 ## Identificación del problema a resolver<a name="Identificación_del_problema_a_resolver"></a>
 
@@ -106,8 +126,21 @@ Por otra parte, si el día de mañana nuestra app se ampliara al mercado de los 
 
 - Usuario final
 
-Todas las funcionales de la aplicación son pensadas para el usuario final,
-el cual es el cliente de la aplicación, especificado en la parte de identificación de interesados.
+Todas las funcionales de la aplicación son pensadas para el usuario final, el cual es el cliente de la aplicación, especificado en la parte de identificación de interesados.
+
+Dentro de los usuarios finales, estos se pueden subdividir en: conductores, pasajeros e inspectores.
+
+- Conductores
+
+Los conductores son los encargados de hacer que el vehiculo este en hora en cada parada, y debe respetar el recorrido preestablecido.
+
+- Pasajeros
+
+Los pasajeros son los usuarios principales de la aplicacion, son los que van a utilizar la aplicacion para saber en que parada esta el omnibus, y en que tiempo llegara a la parada, el recorrido de los mismos, etc.
+
+- Inspectores
+
+Los inspectores son los encargados de verificar que los conductores cumplan con el recorrido preestablecido, y que los vehiculos esten en hora en cada parada.
 
 
 - Dueño del producto
@@ -115,6 +148,13 @@ el cual es el cliente de la aplicación, especificado en la parte de identificac
 La funcionalidad de STM al ser una funcionalidad agregada a lo que fue solicitado, 
 se considera como una funcionalidad de interés para el dueño del producto.
 
+| Funcionalidad | Conductor | Pasajero | Inspector | Dueño del producto |
+| --- | --- | --- | --- | --- |
+| STM | - | X | - | X |
+| Usuario | - | X | - | - |
+| Lineas de omnibus | X | X | X | - |
+| Viajes | X | X | X | - |
+| Notificaciones | - | X | - | - |
 
 ## Definición del problema<a name="Definición_del_problema"></a>
 
