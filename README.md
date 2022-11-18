@@ -689,7 +689,18 @@ De esta retro pudimos ver que sigue el problema de la organizacion.
 | Martin | Reuniones | 4 |
 | Martin | Total | 10 |
 
+
+# Iteracion 4<a name="Iteracion_4"></a>
+
+## Burndown Chart 
+
+![image](https://i.imgur.com/iiWlPHS.png)
+
+Como se puede observar burndownchart no tiene los datos correctos, ya que a la hora de marcar como completadas la tareas realizadas la marcamos como "Resolved" y no como "Colsed" lo que causo que la grafica tenga grandes mesetas y bajadas de golpe, ya que cuando se les puso closed fue a todas juntas el mismo día causando las abruptas bajadas que tiene. El Azure para hacer estos calculos se fija en las tareas que estan "Closed" y esto no lo sabiamos al momento de ir cerrando las tareas. 
+
 ## Link a la demo
 
 Se realizo una demo del prototipo generado al finalizada la iteración 3.
 <a href="https://web.microsoftstream.com/video/0a814414-a764-478c-8843-d029d27ca0b8">https://web.microsoftstream.com/video/0a814414-a764-478c-8843-d029d27ca0b8</a>
+
+
