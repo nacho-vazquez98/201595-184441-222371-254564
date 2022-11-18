@@ -86,7 +86,27 @@ Los cambios son minimos (agregar un icono de información en la sección de line
 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSdz4v2TZwRcXztKyiRj-5eYdIQNu0ji19rUhZ4PKewrkyEjaA/viewform">Encuesta de validacion</a>
 
-[Resultados de Encuesta de validacion](./Encuestas/EncuestaValidacionDeUsuarios.xlsx)
+| ¿En una escala del 1 al 5 qué te pareció el diseño de la aplicación en general? | ¿Qué cambios harías para mejorarlo? | ¿Le pareció una aplicación sencilla de usar? | Si respondió que no o depende de la sección, ¿Qué fue lo que lo llevo a esa respuesta? | ¿Te gustaría que tuviera alguna otra funcionalidad? | En caso de haber respondido que si en la pregunta anterior, ¿Qué funcionalidad agregaría? | ¿Le seria útil tener los datos de su tarjeta STM (Saldo actual, vencimiento de boletos, etc.) y poder recargar el saldo de la misma? |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 5 | - | Si | - | Si | Calificar chófer y guarda de cada línea. Y que cada omnibus tenga su número de referencia para calificar | - |
+| 3 | Cuando intente filtrar por linea no funciono bien el prototipo y no entendi que hacer | Si | - | No | - | - |
+| 5 | Ninguno | Si | - | No | No | - |
+| 4 | Retoques a la interfaz gráfica, sobre todo en "lineas cercanas" los rectángulos azules de las respectivas lineas. | Si | - | Si | Sería util que cuando buscás lineas, te muestre los horarios teoricos de cuando pasa cada bondi | - |
+| 3 | Diseño de la información de las lineas | Si | - | Si | Poder ver el trayecto de la linea | - |
+| 4 | - | Si | - | No | - | - |
+| 5 | ningun cambio | Si | - | No | - | - |
+| 4 | - | Si | - | No | - | Si |
+| 5 | Ninguno | Si | - | Si | - | Si |
+| 4 | - | Si | - | Si | Poder guardar los destinos | Si |
+| 5 | - | Si | - | No | - | Si |
+| 5 | - | Si | - | No | - | No |
+| 3 | Se podria mejorar el diseño | Si | - | No | - | Si |
+
+Analizando los resultados de la encuesta, podemos ver que la mayoría de los usuarios respondieron que le pareció una aplicación sencilla de usar, y que no le gustaría que tuviera alguna otra funcionalidad. Esto nos lleva a pensar que la aplicación cumple con su objetivo, que es ayudar a los usuarios a encontrar la información que necesitan de una forma sencilla y rápida.
+
+Sin embargo, un punto que surgio un par de veces fue el tema del diseño de la aplicacion en si, esto fue algo que anticipamos de antemano ya que ninguno de los integrantes del equipo es diseñador, por lo que no nos dimos cuenta de que el diseño no era muy atractivo. Esto nos llevo a pensar que es necesario que el equipo de diseño de la aplicación se involucre en el proyecto, ya que ellos son los que mejor saben como hacer que la aplicación sea atractiva y facil de usar.
+
+En cuanto a la funcionalidad que le agrega valor al producto, la terjeta STM, la mayoría de los usuarios respondieron que si le seria util, por lo que entendemos que es una buena funcionalidad extra que se puede implementar.
 
 
 ## Registro Daily<a name="Registro_Daily"></a>
